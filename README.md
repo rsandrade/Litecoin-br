@@ -13,7 +13,7 @@ liquidez, Litecoin provê ao comércio um complemento à adoção do Bitcoin. Li
 
 ## Obtendo Litecoin
 
-- Instale uma carteira Litecoin
+- Obtenha uma carteira Litecoin
   - [Android](https://play.google.com/store/apps/details?id=com.loafwallet&hl=pt_BR)
   - [iOS](https://itunes.apple.com/us/app/loafwallet/id1119332592)
   - Windows
@@ -23,7 +23,7 @@ liquidez, Litecoin provê ao comércio um complemento à adoção do Bitcoin. Li
       ([32bits](https://download.litecoin.org/litecoin-0.14.2/linux/litecoin-0.14.2-i686-pc-linux-gnu.tar.gz))
       ([64bits](https://download.litecoin.org/litecoin-0.14.2/linux/litecoin-0.14.2-x86_64-linux-gnu.tar.gz))
   - [Mac](https://download.litecoin.org/litecoin-0.14.2/osx/litecoin-0.14.2-osx.dmg)
-  - [Papel (armazenamento offline)](http://www.liteaddress.org/)
+  - [Papel](http://www.liteaddress.org/) (armazenamento offline)
 
 - Faça backup de sua chave privada
 
@@ -32,7 +32,7 @@ liquidez, Litecoin provê ao comércio um complemento à adoção do Bitcoin. Li
 - Adquira Litecoins
 
   - [Mercado Bitcoin](https://www.mercadobitcoin.com.br/)
-  - [Outras formas](https://www.buybitcoinworldwide.com/pt-br/litecoin/compre/)
+  - [Outras formas](https://www.buybitcoinworldwide.com/pt-br/litecoin/compre/) (post externo)
 
 ## Onde usar Litecoin
 
