@@ -25,11 +25,7 @@ liquidez, Litecoin provê ao comércio um complemento à adoção do Bitcoin. Li
   - [Mac](https://download.litecoin.org/litecoin-0.14.2/osx/litecoin-0.14.2-osx.dmg)
   - [Papel](http://www.liteaddress.org/) (armazenamento offline)
 
-- Faça backup de sua chave privada
-
-  *Em breve*
-
-- Adquira Litecoins
+- Adquira Litecoins no Brasil
 
   - [Mercado Bitcoin](https://www.mercadobitcoin.com.br/)
   - [Outras formas](https://www.buybitcoinworldwide.com/pt-br/litecoin/compre/) (post externo)
