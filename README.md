@@ -11,7 +11,7 @@ Comparada com o Bitcoin, o Litecoin possui um tempo de execução das transaçõ
 Contando atualmente com um substancial suporte dos usuários e instituições do mundo das criptomoedas, volume de comércio e 
 liquidez, Litecoin provê ao comércio um complemento à adoção do Bitcoin. Litecoin é uma das mais populares criptomoedas do mundo.
 
-## Obtendo Litecoin
+## Obtendo
 
 - Obtenha uma carteira Litecoin
   - [Android](https://play.google.com/store/apps/details?id=com.loafwallet&hl=pt_BR)
@@ -30,7 +30,13 @@ liquidez, Litecoin provê ao comércio um complemento à adoção do Bitcoin. Li
   - [Mercado Bitcoin](https://www.mercadobitcoin.com.br/)
   - [Outras formas](https://www.buybitcoinworldwide.com/pt-br/litecoin/compre/) (post externo)
 
-## Onde usar Litecoin
+## Onde usar
 
 - Livrarias
   - [9Bravos](http://www.9bravos.com.br/loja) (2% de desconto)
+
+## Comunidades
+
+- Grupo Telegram: [Litecoin Brasil](https://t.me/litecoinbr)
+- [Forum](https://litecointalk.org/) (*inglês*)
+- [reddit](http://www.reddit.com/r/litecoin) (*inglês*)
