@@ -27,4 +27,8 @@ liquidez, Litecoin provê ao comércio um complemento à adoção do Bitcoin. Li
 
 - Faça backup de sua chave privada
 
+  *Em breve*
+
 - Adquira Litecoins
+
+  *Em breve*
