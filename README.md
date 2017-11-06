@@ -13,7 +13,7 @@ liquidez, Litecoin provê ao comércio um complemento à adoção do Bitcoin. Li
 
 ## Começando com Litecoin
 
-1. Instale uma carteira Litecoin
+- Instale uma carteira Litecoin
   - [Android](https://play.google.com/store/apps/details?id=com.loafwallet&hl=pt_BR)
   - [iOS](https://itunes.apple.com/us/app/loafwallet/id1119332592)
   - Windows
@@ -25,6 +25,6 @@ liquidez, Litecoin provê ao comércio um complemento à adoção do Bitcoin. Li
   - [Mac](https://download.litecoin.org/litecoin-0.14.2/osx/litecoin-0.14.2-osx.dmg)
   - [Papel (armazenamento offline)](http://www.liteaddress.org/)
 
-2. Faça backup de sua chave privada
+- Faça backup de sua chave privada
 
-3. Adquira Litecoins
+- Adquira Litecoins
