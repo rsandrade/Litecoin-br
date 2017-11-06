@@ -32,3 +32,8 @@ liquidez, Litecoin provê ao comércio um complemento à adoção do Bitcoin. Li
 - Adquira Litecoins
 
   *Em breve*
+
+## Onde usar seus Litecoins
+
+- Livrarias
+  - [9Bravos](http://www.9bravos.com.br/loja) (2% de desconto)
