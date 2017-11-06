@@ -32,6 +32,7 @@ liquidez, Litecoin provê ao comércio um complemento à adoção do Bitcoin. Li
 - Adquira Litecoins
 
   - [Mercado Bitcoin](https://www.mercadobitcoin.com.br/)
+  - [Outras formas](https://www.buybitcoinworldwide.com/pt-br/litecoin/compre/)
 
 ## Onde usar Litecoin
 
