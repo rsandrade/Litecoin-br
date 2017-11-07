@@ -43,6 +43,10 @@ Charlie Lee trabalha em conjunto com a [Litecoin Foundation](https://litecoin-fo
 - Livrarias
   - [9Bravos](http://www.9bravos.com.br/loja) (2% de desconto)
 
+## Utilizando Litecoin no exterior
+
+- Listagem do site [Litecoin.com](https://litecoin.com/services#merchants)
+
 ## Comunidades
 
 - Grupo Telegram: [Litecoin Brasil](https://t.me/litecoinbr)
