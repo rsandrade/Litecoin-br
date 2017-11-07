@@ -26,7 +26,6 @@ liquidez, Litecoin provê ao comércio um complemento à adoção do Bitcoin. Li
   - [Papel](http://www.liteaddress.org/) (armazenamento offline)
 
 - Adquira Litecoins no Brasil
-
   - [Mercado Bitcoin](https://www.mercadobitcoin.com.br/)
   - [Outras formas](https://www.buybitcoinworldwide.com/pt-br/litecoin/compre/) (post externo)
 
