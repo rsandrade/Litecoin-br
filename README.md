@@ -42,6 +42,8 @@ Charlie Lee trabalha em conjunto com a [Litecoin Foundation](https://litecoin-fo
 
 - Livrarias
   - [9Bravos](http://www.9bravos.com.br/loja) (2% de desconto)
+- Doações (ONGs, associações e afins)
+  - [Raul Hacker Club](http://raulhc.cc/)
 
 ## Utilizando Litecoin no exterior
 
