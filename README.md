@@ -3,7 +3,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/rsandrade/litecoin-br/master/img/256px-Full_Logo_L.png"> Litecoin é uma criptomoeda baseada em tecnologia ponto-a-ponto (peer-to-peer) que permite pagamentos instantâneos com taxas
 quase inexistentes entre pessoas localizadas em qualquer lugar do mundo. Litecoin possui código-fonte aberto e é uma rede de
-pagamentos global totalmente descentralizada. A matemática e criptografia envolvida asseguram à rede um altíssimo nível de 
+pagamentos global totalmente descentralizada. A matemática (criptografia) envolvida assegura à rede um altíssimo nível de 
 segurança, além de conferir aos usuários controle sobre suas finanças.
 
 Comparada com o Bitcoin, o Litecoin possui um tempo de execução das transações mais rápido (~2,5 minutos), além de um suprimento maior de moedas (84 milhões, frente às 21 milhões do bitcoin).
