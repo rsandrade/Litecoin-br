@@ -13,7 +13,7 @@ liquidez, Litecoin provê ao comércio um complemento à adoção do Bitcoin. Li
 
 ## Conhecendo
 
-Criada poucos anos depois do Bitcoin e com a missão de ser a “prata digital”, assim como o Bitcoin é considerado o “ouro digital”, o Litecoin é uma das mais antigas, avançadas e principais criptomoedas atualmente.
+Criado poucos anos depois do Bitcoin e com a missão de ser a “prata digital”, assim como o Bitcoin é considerado o “ouro digital”, o Litecoin é uma das mais antigas, avançadas e principais criptomoedas atualmente.
 
 A quantidade de moedas disponíveis é quatro vezes a quantidade da irmã mais velha e conta com diversas modificações que, por sua vez, fazem com que as transações sejam mais rápidas e o custo de mineração seja mais barato computacionalmente, barateando a taxa de transação paga aos mineradores (até 100 vezes mais baratas que as transações do Bitcoin). Assim, o Litecoin se apresenta como uma solução ideal para o uso cotidiano.
 
