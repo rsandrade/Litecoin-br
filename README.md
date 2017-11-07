@@ -11,9 +11,19 @@ Comparada com o Bitcoin, o Litecoin possui um tempo de execução das transaçõ
 Contando atualmente com um substancial suporte dos usuários e instituições do mundo das criptomoedas, volume de comércio e 
 liquidez, Litecoin provê ao comércio um complemento à adoção do Bitcoin. Litecoin é uma das mais populares criptomoedas do mundo.
 
+## Conhecendo
+
+Criada poucos anos depois do Bitcoin e com a missão de ser a “prata digital”, assim como o Bitcoin é considerado o “ouro digital”, o Litecoin é uma das mais antigas, avançadas e principais criptomoedas atualmente.
+
+A quantidade de moedas disponíveis é quatro vezes a quantidade da irmã mais velha e conta com diversas modificações que, por sua vez, fazem com que as transações sejam mais rápidas e o custo de mineração seja mais barato computacionalmente, barateando a taxa de transação paga aos mineradores (até 100 vezes mais baratas que as transações do Bitcoin). Assim, o Litecoin se apresenta como uma solução ideal para o uso cotidiano.
+
+O Litecoin foi criado e é mantido por [Charlie Lee](https://www.twitter.com/SatoshiLite), egresso do MIT e ex-funcionário da Google e da Coinbase, uma das maiores casas de câmbio de criptomoeda do mundo. Sua saída da Coinbase foi para se dedicar em tempo integral ao desenvolvimento da Litecoin, o que pode significar mais um vetor de avanço no desenvolvimendo desta criptomoeda.
+
+Charlie Lee trabalha em conjunto com a [Litecoin Foundation](https://litecoin-foundation.org/), cuja missão é proporcionar o avanço do Litecoin, em favor do bem da sociedade, por meio do desenvolvimento e promoção do estado-da-arte das tecnologias blockchain de código-fonte aberto.
+
 ## Obtendo
 
-- Obtenha uma carteira Litecoin
+- Escolha uma carteira para guardar seus Litecoin
   - [Android](https://play.google.com/store/apps/details?id=com.loafwallet&hl=pt_BR)
   - [iOS](https://itunes.apple.com/us/app/loafwallet/id1119332592)
   - Windows
