@@ -17,7 +17,7 @@ Criada poucos anos depois do Bitcoin e com a missão de ser a “prata digital�
 
 A quantidade de moedas disponíveis é quatro vezes a quantidade da irmã mais velha e conta com diversas modificações que, por sua vez, fazem com que as transações sejam mais rápidas e o custo de mineração seja mais barato computacionalmente, barateando a taxa de transação paga aos mineradores (até 100 vezes mais baratas que as transações do Bitcoin). Assim, o Litecoin se apresenta como uma solução ideal para o uso cotidiano.
 
-O Litecoin foi criado e é mantido por [Charlie Lee](https://www.twitter.com/SatoshiLite), egresso do MIT e ex-funcionário da Google e da Coinbase, uma das maiores casas de câmbio de criptomoeda do mundo. Sua saída da Coinbase foi para se dedicar em tempo integral ao desenvolvimento da Litecoin, o que pode significar mais um vetor de avanço no desenvolvimendo desta criptomoeda.
+O Litecoin foi criado e é mantido por [Charlie Lee](https://www.twitter.com/SatoshiLite), egresso do MIT e ex-funcionário da Google e da Coinbase, uma das maiores casas de câmbio de criptomoeda do mundo e [outros desenvolvedores](https://litecoincore.org/). Sua saída da Coinbase foi para se dedicar em tempo integral ao desenvolvimento da Litecoin, o que pode significar mais um vetor de avanço no desenvolvimendo desta criptomoeda.
 
 Charlie Lee trabalha em conjunto com a [Litecoin Foundation](https://litecoin-foundation.org/), cuja missão é proporcionar o avanço do Litecoin, em favor do bem da sociedade, por meio do desenvolvimento e promoção do estado-da-arte das tecnologias blockchain de código-fonte aberto.
 
