@@ -20,7 +20,7 @@ O Litecoin foi criado e é mantido por [Charlie Lee](https://www.twitter.com/Sat
 
 Charlie Lee trabalha em conjunto com a [Litecoin Foundation](https://litecoin-foundation.org/), cuja missão é proporcionar o avanço do Litecoin, em favor do bem da sociedade, por meio do desenvolvimento e promoção do estado-da-arte das tecnologias blockchain de código-fonte aberto.
 
-## Obtendo
+## Obtendo Litecoin no Brasil
 
 - Escolha uma carteira para guardar seus Litecoin
   - [Android](https://play.google.com/store/apps/details?id=com.loafwallet&hl=pt_BR)
@@ -38,7 +38,7 @@ Charlie Lee trabalha em conjunto com a [Litecoin Foundation](https://litecoin-fo
   - [Mercado Bitcoin](https://www.mercadobitcoin.com.br/)
   - [Outras formas](https://www.buybitcoinworldwide.com/pt-br/litecoin/compre/) (post externo)
 
-## Utilizando
+## Utilizando Litecoin no Brasil
 
 - Livrarias
   - [9Bravos](http://www.9bravos.com.br/loja) (2% de desconto)
