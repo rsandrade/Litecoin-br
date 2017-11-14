@@ -27,7 +27,7 @@ O Litecoin pretende incluir diversas novas tecnologias. Seu _Roadmap_ indica as 
 - Confidential Transactions
   - A ideia básica das Transações Confidenciais (_Confidential Transactions_) é a de ofuscar a quantia transacionada, nas entradas e saídas, ao mesmo tempo em que garante que que o valor enviado e recebido seja igual, utilizando uma forma de verificação criptográfica baseada numa técnica denominada _Pedersen commitment_. Isso garante a caracteristica fiduciária da moeda.
 - Atomic Swaps
-- Segregated Witnes
+- Segregated Witness
 - Lightning Network
 - Smart Contracts
 - Schnorr Signatures
