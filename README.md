@@ -34,7 +34,7 @@ O Litecoin pretende incluir diversas novas tecnologias. Seu [_Roadmap_](https://
 
 ## Obtendo Litecoin no Brasil
 
-- Escolha uma carteira para guardar seus Litecoin
+- Primeiro, escolha uma carteira para guardar seus Litecoin
   - [Android](https://play.google.com/store/apps/details?id=com.loafwallet&hl=pt_BR)
   - [iOS](https://itunes.apple.com/us/app/loafwallet/id1119332592)
   - Windows
