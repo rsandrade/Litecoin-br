@@ -20,6 +20,17 @@ O Litecoin foi criado e é mantido por [Charlie Lee](https://www.twitter.com/Sat
 
 Charlie Lee trabalha em conjunto com a [Litecoin Foundation](https://litecoin-foundation.org/), cuja missão é proporcionar o avanço do Litecoin, em favor do bem da sociedade, por meio do desenvolvimento e promoção do estado-da-arte das tecnologias blockchain de código-fonte aberto.
 
+## Desenvolvimento do Litecoin
+
+O Litecoin pretende incluir diversas novas tecnologias. Seu _Roadmap_ indica as seguintes tecnologias abaixo em desenvolvimento e experimentação, muitas delas são ou serão compatíveis com o Bitcoin, o que torna o Litecoin o parceiro ideal para a solução de escalabilidade (crescimento) do ecossistema de criptomoedas no mundo.
+
+- Atomic Swaps
+- Segregated Witnes
+- Confidential Transactions
+- Lightning Network
+- Smart Contracts
+- Schnorr Signatures
+
 ## Obtendo Litecoin no Brasil
 
 - Escolha uma carteira para guardar seus Litecoin
