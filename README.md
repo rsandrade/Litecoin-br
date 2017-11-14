@@ -22,11 +22,12 @@ Charlie Lee trabalha em conjunto com a [Litecoin Foundation](https://litecoin-fo
 
 ## Desenvolvimento do Litecoin
 
-O Litecoin pretende incluir diversas novas tecnologias. Seu _Roadmap_ indica as seguintes tecnologias abaixo em desenvolvimento e experimentação, muitas delas são ou serão compatíveis com o Bitcoin, o que torna o Litecoin o parceiro ideal para a solução de escalabilidade (crescimento) do ecossistema de criptomoedas no mundo.
+O Litecoin pretende incluir diversas novas tecnologias. Seu _Roadmap_ indica as seguintes tecnologias abaixo em desenvolvimento e experimentação, muitas delas são ou serão compatíveis e complementares ao Bitcoin, o que torna o Litecoin o componente ideal para formar a solução de escalabilidade (crescimento) do ecossistema de criptomoedas mais completo e avançado do mundo.
 
+- Confidential Transactions
+  - A ideia básica das Transações Confidenciais (_Confidential Transactions_) é a de ofuscar a quantidade de Litecoins em todas as transações, nas entradas e saídas, ao mesmo tempo em que garante que que o valor enviado e recebido seja igual, utilizando uma forma de verificação criptográfica baseada numa técnica denominada _Pedersen commitment_.
 - Atomic Swaps
 - Segregated Witnes
-- Confidential Transactions
 - Lightning Network
 - Smart Contracts
 - Schnorr Signatures
