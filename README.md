@@ -47,8 +47,9 @@ O Litecoin pretende incluir diversas novas tecnologias. Seu [_Roadmap_](https://
   - [Papel](http://www.liteaddress.org/) (armazenamento offline)
 
 - Adquira Litecoins no Brasil
-  - [Mercado Bitcoin](https://www.mercadobitcoin.com.br/)
+  - [Mercado Bitcoin](https://www.mercadobitcoin.com.br/) (casa de câmbio online)
   - [Outras formas](https://www.buybitcoinworldwide.com/pt-br/litecoin/compre/) (post externo)
+  - [LitecoinLocal](https://www.litecoinlocal.net/) (mercado que põe negociantes em contato direto)
 
 ## Utilizando Litecoin no Brasil
 
