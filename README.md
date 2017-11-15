@@ -46,10 +46,13 @@ O Litecoin pretende incluir diversas novas tecnologias. Seu [_Roadmap_](https://
   - [Mac](https://download.litecoin.org/litecoin-0.14.2/osx/litecoin-0.14.2-osx.dmg)
   - [Papel](http://www.liteaddress.org/) (armazenamento offline)
 
-- Adquira Litecoins no Brasil
+- Adquira Litecoin no Brasil
   - [Mercado Bitcoin](https://www.mercadobitcoin.com.br/) (casa de câmbio online)
   - [Outras formas](https://www.buybitcoinworldwide.com/pt-br/litecoin/compre/) (post externo)
   - [LitecoinLocal](https://www.litecoinlocal.net/) (mercado que põe negociantes em contato direto)
+
+- Adquira Litecoin no exterior
+  - [Coinbase](https://www.coinbase.com/join/56d858f89e70240c8100052a)
 
 ## Utilizando Litecoin no Brasil
 
