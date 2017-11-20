@@ -8,4 +8,4 @@ Based on: [A Newcomer’s Guide to Crypto](https://medium.com/the-litecoin-schoo
 ## 4. Como comprar Litecoin
 ## 5. Configure, faça cópia de segurança, restaure com a carteira LeafWallet
 ## 6. As vantagens das carteiras hardware
-## 7. Finalmente, que são as transaçes de Litecoin
+## 7. Finalmente, que são as transaçes de Litecoin?
