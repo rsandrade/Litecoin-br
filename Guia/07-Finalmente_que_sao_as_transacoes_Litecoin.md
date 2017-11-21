@@ -44,15 +44,15 @@ Mas, talvez, o mais imporante é que Nós de Usuários regulam e criam problemas
 
 Mineradores fazem tudo que os usuáris fazem, mas também realizam a importante tarefa de "mineração". Isso quer dizer que eles criam, removem e adicionam blocos na blochain Litecoin. Para fazer isso, eles utilizam um nó completo (como o Litecoin Core) exatamente como os usuários, mas, em conjunto com o Litecoin Core, também utilizam um software de mineração conectado a um computador especializado na tarefa de resolver as equações da rede Litecoin - que é o processo de mineração. Esse conjunto de software e hardware permite adquirir as informações necessárias, como a dificuldade do bloco e as transaçes Litecoin, assim como transmitem a proposta de bloco selecionado para a rede Litecoin (e os nós decidirão se este é o bloco a ser adicionado na blockchain). Por essa razão, mineradores são recompensados financeiramente por seu trabalho com Litecoin toda vez que adicionam com sucesso um bloco à blockchain.
 
-As block creators, a miner chooses a single transaction and creates a coinbase. The miner then utilizes this coinbase to create a potential block to be added to the blockchain. He is incentivized to fill this block with as many transactions as possible because he gets all their transaction fees.
+Enquanto criador de blocos, um minerador escolhe uma única transação e cria uma sequência de moedas. O minerador utiliza essa sequência para criar um bloco em potencial. Ele é incentivado a preencher esse bloco com o máximo possível de transações e, caso esse bloco seja adicionado à blockchain, ele receberá todas as taxas de transação.
 
-As block solvers, a miner focuses his computational power on solving the lock equation the nodes have created.
+Enquanto solucionadores de blocos, um minerador mantém o foco do seu poder computacional (o hardware de mineração) direcionado à tarefa de resolver, no menor tempo possível, a equação que os nós da rede estabeleceram.
 
-If he is the first person to solve it, he is given permission to add his block onto the blockchain and reap the block reward (currently at 25 Litecoins).
+Se um minerador for o primeiro a resolver a equação, é dada a ele a permissão para adicionar o bloco na blochain e receber a recompensa do bloco (atualmente 25 Litecoins.
 
-Now what happens when two or more miners solve the lock equation at the same time? Well we would have two blockchains with different information in it. This is unacceptable as all the nodes require “consensus.” Therefore, nodes will typically observe which blockchain grows the fastest to choose that one as the authentic Litecoin blockchain.
+O que acontece quando dois ou mais mineradores resolvem a equação ao mesmo tempo? Bem, nós teremos duas blockchain com diferentes informações nela. Isso é inaceitável, considerando que todos os nós precisam entrar em consenso quanto à blockchain "oficial". Assim, os nós normalmente observam qual blockchain cresce mais rápido e automaticamente escolhem uma como sendo a blockchain Litecoin autêntica.
 
-Ok,now let’s review step by step how it all works from the beginning:
+Ok, vamos revisar, passso-a-passo, como tudo funciona desde o início:
 
     You send a LTC transaction from your wallet-node.
     The transaction is broadcast to the network and is labeled “unconfirmed” because it is not on the validated by the full nodes on the network yet.
