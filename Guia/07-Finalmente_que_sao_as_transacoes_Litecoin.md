@@ -2,8 +2,8 @@
 
 Na primeira parte deste guia, nós conversamos rapidamente sobre o que são é um blockchain. Vamos relembrar rapidamente:
 
-    Blocos são como pastas que guardam documentos com informações como quem enviou Litecoin e quanto foi enviado.
-    Blockchain é uma estante com pastas (os blocos) que qualquer pessoa pode tem acesso.
+- Blocos são como pastas que guardam documentos com informações como quem enviou Litecoin e quanto foi enviado.
+- Blockchain é uma estante com pastas (os blocos) que qualquer pessoa pode tem acesso.
 
 <p align="center">
     <img src="img/folders.png"><br>
@@ -16,8 +16,8 @@ Neste capítulo, daremos uma olhada apenas no essencial sobre o que exatamente o
 
 Uma transação Litecoin baseia-se em dois grupos de pessoas para ser bem sucedida e registrada definitivamente na Blockchain:
 
-    Usuários
-    Mineradores
+- Usuários
+- Mineradores
 
 Esses dois grupos de pessoas usam software clientes compatíveis com a blockchain, como o [Litecoin Core](https://www.litecoin.org), que não apenas funcionam como carteira mas também como uma cópia completa da blockchain Litecoin (full node, ou nó completo). É por isso que em [2. Entenda o que são as carteiras](02-Entenda_o_que_sao_as_carteiras.md) eu descrevi Litecoin Core como uma carteira de nó completo. We will now discuss the difference between User Full Nodes and Miner Full Nodes.
 
@@ -54,8 +54,8 @@ O que acontece quando dois ou mais mineradores resolvem a equação ao mesmo tem
 
 Ok, vamos revisar, passso-a-passo, como tudo funciona desde o início:
 
-    Você faz uma transação LTC da sua carteira.
-    A transação é transmitida para toda a rede e é identificada como "não confirmada" ("unconfirmed"), pois não foi validada pelos nós completos da rede Litecoin ainda.
-    Mineradores escolhem 1 transação para criar um bloco e completam a proposta de bloco com outras transações que foram transmitidas.
-    Mineradores resolvem a equação e ganham o direito de adicionar o bloco proposto na blockchain Litecoin.
-    Quando um bloco é adicionado com sucesso, as transações que fazem parte dele estarão oficialmente registradas e logo será identificada como "confirmada".
+- Você faz uma transação LTC da sua carteira.
+- A transação é transmitida para toda a rede e é identificada como "não confirmada" ("unconfirmed"), pois não foi validada pelos nós completos da rede Litecoin ainda.
+- Mineradores escolhem 1 transação para criar um bloco e completam a proposta de bloco com outras transações que foram transmitidas.
+- Mineradores resolvem a equação e ganham o direito de adicionar o bloco proposto na blockchain Litecoin.
+- Quando um bloco é adicionado com sucesso, as transações que fazem parte dele estarão oficialmente registradas e logo será identificada como "confirmada".
