@@ -20,9 +20,7 @@ O Litecoin foi criado e é mantido por [Charlie Lee](https://www.twitter.com/Sat
 
 Charlie Lee trabalha em conjunto com a [Litecoin Foundation](https://litecoin-foundation.org/), cuja missão é proporcionar o avanço do Litecoin, em favor do bem da sociedade, por meio do desenvolvimento e promoção do estado-da-arte das tecnologias blockchain de código-fonte aberto.
 
-    Dica: Se você ainda é novato no Litecoin, talvez possa se interessar na tradução 
-    e adaptação do "A Newcomer’s Guide to Crypto", que, na fase atual de desenvolvimento, 
-    está sendo chamado de "[Guia do Litecoin para novatos](Guia/Readme.md)".
+> **Dica:** Se você ainda é novato no Litecoin, talvez possa se interessar na tradução e adaptação do "A Newcomer’s Guide to Crypto", que, na fase atual de desenvolvimento, está sendo chamado de "[Guia do Litecoin para novatos](Guia/Readme.md)".
 
 ## Desenvolvimento do Litecoin
 
