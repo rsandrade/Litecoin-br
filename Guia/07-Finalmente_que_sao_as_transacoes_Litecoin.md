@@ -3,21 +3,21 @@
 Na primeira parte deste guia, nós conversamos rapidamente sobre o que são é um blockchain. Vamos relembrar rapidamente:
 
     Blocos são como pastas que guardam documentos com informações como quem enviou Litecoin e quanto foi enviado.
-    Blockchain é um arquivo com pastas (os blocos) o qual qualquer pessoa tem acesso e pode consultar.
+    Blockchain é uma estante com pastas (os blocos) que qualquer pessoa pode tem acesso.
 
 <p align="center">
     <img src="img/folders.png"><br>
     <i>Uma forma de conceitualizar Blockchain</i>
 </p>
     
-In this article, we will look at the nitty gritty details of what exactly happens when you send LTC from your wallet.
+Neste capítulo, daremos uma olhada apenas no essencial sobre o que exatamente ocorre quando você envia Litecoins da sua carteira.
 
-What’s in a Litecoin Transaction Anyway?
+## What’s in a Litecoin Transaction Anyway?
 
-A Litecoin transaction relies on two groups of people in order to be successfully added to the blockchain:
+Uma transação Litecoin baseia-se em dois grupos de pessoas para ser bem sucedida e registrada definitivamente na Blockchain:
 
-    Users
-    Miners
+    Usuários
+    Mineradores
 
 Both of these groups of people use reference clients like Litecoin Core because it not only functions as a wallet, but also as a full node. This is why in Understanding Wallets I described Litecoin Core as a full node wallet. We will now discuss the difference between User Full Nodes and Miner Full Nodes.
 
