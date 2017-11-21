@@ -19,12 +19,16 @@ Uma transação Litecoin baseia-se em dois grupos de pessoas para ser bem sucedi
     Usuários
     Mineradores
 
-Both of these groups of people use reference clients like Litecoin Core because it not only functions as a wallet, but also as a full node. This is why in Understanding Wallets I described Litecoin Core as a full node wallet. We will now discuss the difference between User Full Nodes and Miner Full Nodes.
+Esses dois grupos de pessoas usam software clientes compatíveis com a blockchain, como o [Litecoin Core](https://www.litecoin.org), que não apenas funcionam como carteira mas também como uma cópia completa da blockchain Litecoin (full node, ou nó completo). É por isso que em [2. Entenda o que são as carteiras](02-Entenda_o_que_sao_as_carteiras.md) eu descrevi Litecoin Core como uma carteira de nó completo. We will now discuss the difference between User Full Nodes and Miner Full Nodes.
 
-Users Nodes
+Nós de Usuários
 
-The moment you download Litecoin Core and completely sync with the blockchain, your Litecoin Core becomes a User Full Node. Now User Nodes are important because they have several jobs. They serve as relay stations, record keeping validators, witnesses, and regulators.
-One way to conceptualize Litecoin Core, a full node
+No momento em que você baixa o Litecoin Core e sincroniza completamente a blockchain em seu computador, o seu Litecoin Core se torna um Nó Completo de Usuário. Nós de Usuários são importantes por causa de uma série de motivos: servem como "estações de transmissão" (ajudando outros nós a se tornarem completos), validadores de registros (verificando se uma determinada transação está registrada na blockchain), testemunhas e reguladores.
+
+<p align="center">
+    <img src="img/estacaotransmissao.png"><br>
+    <i>Uma forma de conceitualizar o Litecoin Core, um nó completo</i>
+</p>
 
 As relay stations, User Nodes send information to one another such as Litecoin transactions that are trying to get processed. In this way, all nodes compose the Litecoin network. They also help secure the blockchain by sharing with one another how fast miners have solved the most recent block and if there are any nodes that are misbehaving.
 
