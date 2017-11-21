@@ -54,8 +54,8 @@ O que acontece quando dois ou mais mineradores resolvem a equação ao mesmo tem
 
 Ok, vamos revisar, passso-a-passo, como tudo funciona desde o início:
 
-    You send a LTC transaction from your wallet-node.
-    The transaction is broadcast to the network and is labeled “unconfirmed” because it is not on the validated by the full nodes on the network yet.
-    Miners choose 1 transaction to create a block and fill it with other transactions that have been broadcast.
-    Miners solve the lock equation to earn the right to add their block to the blockchain.
-    When he is successful, the transaction is officially recorded. Once more blocks are added to the chain and are validated by all the nodes, it is labeled as “confirmed.”
+    Você faz uma transação LTC da sua carteira.
+    A transação é transmitida para toda a rede e é identificada como "não confirmada" ("unconfirmed"), pois não foi validada pelos nós completos da rede Litecoin ainda.
+    Mineradores escolhem 1 transação para criar um bloco e completam a proposta de bloco com outras transações que foram transmitidas.
+    Mineradores resolvem a equação e ganham o direito de adicionar o bloco proposto na blockchain Litecoin.
+    Quando um bloco é adicionado com sucesso, as transações que fazem parte dele estarão oficialmente registradas e logo será identificada como "confirmada".
