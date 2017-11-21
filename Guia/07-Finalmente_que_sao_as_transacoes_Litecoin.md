@@ -6,7 +6,8 @@ Na primeira parte deste guia, nós conversamos rapidamente sobre o que são é u
     Blockchain é um arquivo com pastas (os blocos) o qual qualquer pessoa tem acesso e pode consultar.
 
 <p align="center">
-![Uma forma de conceitualizar um blockchain](img/folders.png)
+    <img src="img/folders.png"><br>
+    <i>Uma forma de conceitualizar Blockchain</i>
 </p>
     
 In this article, we will look at the nitty gritty details of what exactly happens when you send LTC from your wallet.
