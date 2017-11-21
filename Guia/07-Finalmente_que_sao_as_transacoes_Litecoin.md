@@ -1,11 +1,11 @@
 # Finalmente, que são as transações de Litecoin
 
-In my first article, we briefly talked about what a blockchain is. Just in case, here’s a quick review:
+Na primeira parte deste guia, nós conversamos rapidamente sobre o que são é um blockchain. Vamos relembrar rapidamente:
 
-    Blocks are like folders that keep information in them like who sent Litecoin and how much.
-    Blockchain is a compiled collection of folders, or blocks, that everyone can see.
+    Blocos são como pastas que guardam documentos com informações como quem enviou Litecoin e quanto foi enviado.
+    Blockchain é um arquivo com pastas (os blocos) o qual qualquer pessoa tem acesso e pode consultar.
 
-One way to conceptualize a blockchain.
+![Uma forma de conceitualizar um blockchain](img/folders.png)
 
 In this article, we will look at the nitty gritty details of what exactly happens when you send LTC from your wallet.
 
