@@ -1,9 +1,7 @@
 # Litecoin Brasil
 **Guia do Litecoin para brasileiros**
 
-<img align="right" src="https://raw.githubusercontent.com/rsandrade/litecoin-br/master/img/256px-Full_Logo_L.png"> [Litecoin](https://litecoin.com/pt/) é uma criptomoeda baseada em tecnologia ponto-a-ponto (peer-to-peer) que permite pagamentos instantâneos, com taxas
-quase inexistentes, entre pessoas localizadas em qualquer lugar do mundo. Litecoin existe há cerca de 6 anos, possui código-fonte aberto e é uma rede de pagamentos global totalmente descentralizada. A matemática (criptografia) envolvida assegura à rede um altíssimo nível de 
-segurança, além de conferir aos usuários controle sobre suas finanças.
+<img align="right" src="https://raw.githubusercontent.com/rsandrade/litecoin-br/master/img/256px-Full_Logo_L.png"> [Litecoin](https://litecoin.com/pt/) é uma criptomoeda baseada em tecnologia ponto-a-ponto (peer-to-peer) que permite pagamentos instantâneos, com taxas quase inexistentes, entre pessoas localizadas em qualquer lugar do mundo. Litecoin existe há cerca de 6 anos, possui código-fonte aberto e é uma rede de pagamentos global totalmente descentralizada. A matemática (criptografia) envolvida assegura à rede um altíssimo nível de segurança, além de conferir aos usuários controle sobre suas finanças.
 
 Comparada com o Bitcoin, o Litecoin possui um tempo de execução das transações mais rápido (~2,5 minutos), além de um suprimento maior de moedas (84 milhões, frente às 21 milhões do bitcoin).
 
@@ -18,7 +16,7 @@ A quantidade de moedas disponíveis é quatro vezes a quantidade da irmã mais v
 
 O Litecoin foi criado e é mantido por [Charlie Lee](https://www.twitter.com/SatoshiLite), egresso do MIT e ex-funcionário da Google e da Coinbase, uma das maiores casas de câmbio de criptomoeda do mundo. Sua saída da Coinbase foi para se dedicar em tempo integral ao desenvolvimento da Litecoin, o que pode significar mais um vetor de avanço no desenvolvimendo desta criptomoeda. Além de Charlie Lee, [outros desenvolvedores](https://litecoincore.org/) participam do projeto de desenvolvimento do Litecoin.
 
-Charlie Lee trabalha em conjunto com a [Litecoin Foundation](https://litecoin-foundation.org/), cuja missão é proporcionar o avanço do Litecoin, em favor do bem da sociedade, por meio do desenvolvimento e promoção do estado-da-arte das tecnologias blockchain de código-fonte aberto.
+<img align="right" src="https://raw.githubusercontent.com/rsandrade/litecoin-br/master/img/LitecoinFoundation.png"> Charlie Lee trabalha em conjunto com a [Litecoin Foundation](https://litecoin-foundation.org/), cuja missão é proporcionar o avanço do Litecoin, em favor do bem da sociedade, por meio do desenvolvimento e promoção do estado-da-arte das tecnologias blockchain de código-fonte aberto. 
 
 > **Dica:** Se você é novato no mundo das criptomoedas e do Litecoin, deverá se interessar na tradução e adaptação de "*A Newcomer’s Guide to Crypto*", que, na fase atual de desenvolvimento, está sendo chamado de "[Guia do Litecoin para novatos](Guia/Readme.md)".
 
