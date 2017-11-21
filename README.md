@@ -8,7 +8,7 @@ Comparada com o Bitcoin, o Litecoin possui um tempo de execução das transaçõ
 Contando atualmente com um substancial suporte dos usuários e instituições do mundo das criptomoedas, volume de comércio e 
 liquidez, Litecoin provê ao comércio um complemento à adoção do Bitcoin. Litecoin é uma das mais populares criptomoedas do mundo.
 
-O slogan do Litecoin é **A Criptomoeda para Pagamentos** ("The Criptocurrency for payments").
+O slogan do Litecoin é **A criptomoeda para pagamentos** ("The criptocurrency for payments").
 
 ## Conhecendo
 
