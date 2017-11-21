@@ -12,7 +12,7 @@ Na primeira parte deste guia, nós conversamos rapidamente sobre o que são é u
     
 Neste capítulo, daremos uma olhada apenas no essencial sobre o que exatamente ocorre quando você envia Litecoins da sua carteira.
 
-## What’s in a Litecoin Transaction Anyway?
+## Finalmente, que são as transações Litecoin?
 
 Uma transação Litecoin baseia-se em dois grupos de pessoas para ser bem sucedida e registrada definitivamente na Blockchain:
 
@@ -23,7 +23,7 @@ Esses dois grupos de pessoas usam software clientes compatíveis com a blockchai
 
 **Nós de Usuários**
 
-No momento em que você baixa o Litecoin Core e sincroniza completamente a blockchain em seu computador, o seu Litecoin Core se torna um Nó Completo de Usuário. Nós de Usuários são importantes por causa de uma série de motivos: servem como "estações de transmissão" (ajudando outros nós a se tornarem completos), validadores de registros (verificando se uma determinada transação está registrada na blockchain), testemunhas e reguladores.
+No momento em que você baixa o Litecoin Core e sincroniza completamente a blockchain em seu computador, o seu Litecoin Core se torna um Nó Completo de Usuário. Nós de Usuários são importantes por causa de uma série de motivos: servem como estações de transmissão, validadores de registros, testemunhas e reguladores.
 
 <p align="center">
     <img src="img/estacaotransmissao.png"><br>
@@ -34,9 +34,9 @@ Enquanto estação de transmissão, Nós de Usuários enviam informação uns pa
 
 Enquanto validadores de registros, Nós de Usuários baixam toda a blockchain. Isso quer dizer que cada nó possui a cópia de todo o livro-razão das transações realizadas desde o início do Litecoin. É por isso que as blockchains são consideradas descentralizadas. Muitas pessoas, não apenas uma, possuem todas as informações da rede Litecoin. Dessa forma, milhares de pessoas podem validar e verificar se as transações recebidas para processamento na rede Litecoin são ou não válidas.
 
-As witnesses, User Nodes make sure that there is only one copy of the blockchain through a process called “consensus.” Should two miners end up adding blocks at the same time, the nodes will collectively work together to choose which one is the “real” chain. One way they do this is by watching to see which chain adds blocks faster. Typically, the first chain to add 10–15 blocks is the winner. The losing chain then gets orphaned and forgotten.
+Enquanto testemunha, Nós de Usuários garantem que haja apenas uma cópia da blockchain por meio de um processo chamado "consenso".  Se dois mineradores finalizam a adição de blocos ao mesmo tempo, os nós irão trabalhar coletivamente para escolher qual bloco irá compor a sequência "real" da blockchain. Normalmente, a sequência que adicionar 10 a 15 blocos primeiros é a vencedora. A sequência perdedora ficará orfã e será esquecida.
 
-As regulators, User Nodes implement and preserve the integrity of the network. They have the ability to implement changes in blockchain protocol such as increasing the blocksize or implementing new technology such as Segregated Witness.
+Enquanto reguladores, Nós de Usuários implementam e preservam a integridade da rede. Possuem a habilidade de implementar alterações no protocolo da blockchain, como o aumento do tamanho de bloco ou uma nova tecnologia (a exemplo da SegWit - Segregated Witness).
 
 But perhaps most importantly, User Nodes regulate and create mathematical problems that miners have to solve in order to add their block to the blockchain. If they solve it too quickly, then these nodes increase the difficulty of the equation. If miners solve it too slowly, then they decrease it. This process, which is called “Proof of Work,” is important because it adds security to the blockchain. The more difficult the equation, the harder it is for people to access the blockchain and maliciously try to change information in it.
 
