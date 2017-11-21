@@ -76,7 +76,7 @@ O Litecoin pretende incluir diversas novas tecnologias. Seu [_Roadmap_](https://
 - [Forum](https://litecointalk.org/) (*inglês*)
 - [reddit](http://www.reddit.com/r/litecoin) (*inglês*)
 
-## Gostou do deste Guia?
+## Gostou deste Guia?
 
 Pague um café para o criador doando alguns Lites :)
 - Envie LTC para [LUeRE1BCAftPb2NGJyfy5bSXtmUXbEfHS7](https://live.blockcypher.com/ltc/address/LUeRE1BCAftPb2NGJyfy5bSXtmUXbEfHS7/)
