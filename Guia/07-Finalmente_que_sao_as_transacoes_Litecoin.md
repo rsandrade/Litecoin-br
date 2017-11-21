@@ -21,7 +21,7 @@ Uma transação Litecoin baseia-se em dois grupos de pessoas para ser bem sucedi
 
 Esses dois grupos de pessoas usam software clientes compatíveis com a blockchain, como o [Litecoin Core](https://www.litecoin.org), que não apenas funcionam como carteira mas também como uma cópia completa da blockchain Litecoin (full node, ou nó completo). É por isso que em [2. Entenda o que são as carteiras](02-Entenda_o_que_sao_as_carteiras.md) eu descrevi Litecoin Core como uma carteira de nó completo. We will now discuss the difference between User Full Nodes and Miner Full Nodes.
 
-Nós de Usuários
+**Nós de Usuários**
 
 No momento em que você baixa o Litecoin Core e sincroniza completamente a blockchain em seu computador, o seu Litecoin Core se torna um Nó Completo de Usuário. Nós de Usuários são importantes por causa de uma série de motivos: servem como "estações de transmissão" (ajudando outros nós a se tornarem completos), validadores de registros (verificando se uma determinada transação está registrada na blockchain), testemunhas e reguladores.
 
@@ -30,7 +30,7 @@ No momento em que você baixa o Litecoin Core e sincroniza completamente a block
     <i>Uma forma de conceitualizar o Litecoin Core, um nó completo</i>
 </p>
 
-As relay stations, User Nodes send information to one another such as Litecoin transactions that are trying to get processed. In this way, all nodes compose the Litecoin network. They also help secure the blockchain by sharing with one another how fast miners have solved the most recent block and if there are any nodes that are misbehaving.
+Enquanto estação de transmissão, Nós de Usuários enviam informação uns para os outros, assim como as transaçes Litecoin que estão tentando ser processadas. Todos os nós, juntos, formam a rede Litecoin. Os nós também ajudam a proteger a blockchain, compartilhando uns com os outros sobre o quão rápido os mineradores finalizaram o bloco mais recente e se há nós se comportando de forma inadequada ou incompatível com a rede Litecoin.
 
 As record keeping validators, User Nodes download the whole blockchain. That means every single full Litecoin node has a copy of the ledger. This is why blockchains are considered decentralized. Many people, not just one, have access to the information. In this way, thousands of people can validate and verify that the Litecoin transactions being sent on the network are valid.
 
