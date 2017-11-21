@@ -32,7 +32,7 @@ No momento em que você baixa o Litecoin Core e sincroniza completamente a block
 
 Enquanto estação de transmissão, Nós de Usuários enviam informação uns para os outros, assim como as transaçes Litecoin que estão tentando ser processadas. Todos os nós, juntos, formam a rede Litecoin. Os nós também ajudam a proteger a blockchain, compartilhando uns com os outros sobre o quão rápido os mineradores finalizaram o bloco mais recente e se há nós se comportando de forma inadequada ou incompatível com a rede Litecoin.
 
-As record keeping validators, User Nodes download the whole blockchain. That means every single full Litecoin node has a copy of the ledger. This is why blockchains are considered decentralized. Many people, not just one, have access to the information. In this way, thousands of people can validate and verify that the Litecoin transactions being sent on the network are valid.
+Enquanto validadores de registros, Nós de Usuários baixam toda a blockchain. Isso quer dizer que cada nó possui a cópia de todo o livro-razão das transações realizadas desde o início do Litecoin. É por isso que as blockchains são consideradas descentralizadas. Muitas pessoas, não apenas uma, possuem todas as informações da rede Litecoin. Dessa forma, milhares de pessoas podem validar e verificar se as transações recebidas para processamento na rede Litecoin são ou não válidas.
 
 As witnesses, User Nodes make sure that there is only one copy of the blockchain through a process called “consensus.” Should two miners end up adding blocks at the same time, the nodes will collectively work together to choose which one is the “real” chain. One way they do this is by watching to see which chain adds blocks faster. Typically, the first chain to add 10–15 blocks is the winner. The losing chain then gets orphaned and forgotten.
 
@@ -40,7 +40,7 @@ As regulators, User Nodes implement and preserve the integrity of the network. T
 
 But perhaps most importantly, User Nodes regulate and create mathematical problems that miners have to solve in order to add their block to the blockchain. If they solve it too quickly, then these nodes increase the difficulty of the equation. If miners solve it too slowly, then they decrease it. This process, which is called “Proof of Work,” is important because it adds security to the blockchain. The more difficult the equation, the harder it is for people to access the blockchain and maliciously try to change information in it.
 
-Miner Nodes
+**Miner Nodes**
 
 Miners do everything Users do but also perform the important task of “mining.” This means they create, solve, and add blocks to the Litecoin blockchain. In order to do this, they utilize a full node like Litecoin Core just like Users. However, they also run a separate mining software attached to a mining specific computer and then “point” it to Litecoin Core. This allows them to gather necessary information, such as block difficulty and Litecoin transactions, as well as to broadcast their proposed block to the Litecoin network. For this reason, miners are financially rewarded with Litecoins for their work every time they successfully add a block to the blockchain.
 
