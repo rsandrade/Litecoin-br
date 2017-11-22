@@ -21,7 +21,7 @@ A forma mais simples de descrever, blockchain são dados. É uma lista de inform
 
 Digamos que você envie alguns LTC para alguém como forma de pagamento, uma transação será criada e uma pequena taxa será cobrada pelo sistema. Mineradores (falaremos sobre eles mais tarde) agrupam muitas transações em um único bloco (ou pasta), cada um com uma proposta de novo elo na corrente, ou bloco para encadeamento. Esses mesmos mineradores utilizarão poderosos computadores para resolver equações matemáticas de forma a competir entre si para ver quem conseguirá adicionar seu bloco ao encadeamento. Aquele que resolver primeiro, adicionará o mais novo bloco à blockchain (e receberá a recompensa das taxas de todas as transações reunidas no bloco). Pronto! Você teve o primeiro exemplo de como blockchains funcionam, vamos agora falar sobre o Litecoin!
 
-## What is Litecoin?
+## O que é Litecoin?
 
 Atualmente, Litecoin está no Top 10 de uma enorme lista de 1000 criptomoedas existentes e listadas em www.coinmarketcap.com (esse website é um grande recurso de informação). Foi criado por um ex-funcionário do Google chamado Charlie Lee que utilizou como base o código-fonte do Bitcoin e realizou alguns ajustes que considerou necessário para que a moeda adquirisse uma nova finalidade e características. Finalmente, em 7 de outubro de 2011, Charlie lançou o projeto de código-fonte aberto chamado "Litecoin".
 Currently, Litecoin has 4 distinct advantages over Bitcoin:
