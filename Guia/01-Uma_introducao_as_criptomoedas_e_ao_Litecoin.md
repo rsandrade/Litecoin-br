@@ -4,7 +4,8 @@ Olá, bem vindo(a) ao mundo das criptomoedas! Se vocÊ está lendo isso, então 
 
 ## O que são criptomoedas?
 
-    “A coisa mais interessante e útil sobre as blockchains é sua habilidade de empoderar pessoas em nnovas formas. Blockchains põe poder nas mãos das pessoas, retirando das grandes instituições.” -Nick Tomaino
+    “A coisa mais interessante e útil sobre as blockchains é sua habilidade de empoderar pessoas em nnovas formas. 
+        Blockchains põe poder nas mãos das pessoas, retirando das grandes instituições.” -Nick Tomaino
 
 Criptomoedas são uma forma alternativa de pagamento frente às tradicionais formas de dinheiro em espécie, cartões de crédito e cheques. A tecnologia por trás delas permite o envio de valores diretamente a outras pessoas sem envolvimento de terceiros, como os bancos. Isso quer dizer que você não precisa informar ou depender de seu RG, CPF ou cadastro financeiro como requisito para usar as "criptos" (apelido das criptomoedas), o que pode até mesmo conferir a você anonimicidade na maioria dos casos.
 
