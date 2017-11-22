@@ -24,10 +24,11 @@ Digamos que você envie alguns LTC para alguém como forma de pagamento, uma tra
 ## O que é Litecoin?
 
 Atualmente, Litecoin está no Top 10 de uma enorme lista de 1000 criptomoedas existentes e listadas em www.coinmarketcap.com (esse website é um grande recurso de informação). Foi criado por um ex-funcionário do Google chamado Charlie Lee que utilizou como base o código-fonte do Bitcoin e realizou alguns ajustes que considerou necessário para que a moeda adquirisse uma nova finalidade e características. Finalmente, em 7 de outubro de 2011, Charlie lançou o projeto de código-fonte aberto chamado "Litecoin".
-Currently, Litecoin has 4 distinct advantages over Bitcoin:
 
-    Speed- Litecoin is confirmed faster than Bitcoin because it generates a block every 2.5 minutes as opposed to Bitcoin’s 10 minutes. This means you get your money quicker.
-    Liquidity- Litecoin will produce a total of 84 million coins as opposed to Bitcoin’s 21 million. This means that it will be more readily available for daily purchases instead of being hoarded like Bitcoin.
+Litecoin possui 4 vantagens distindas sobre o Bitcoin:
+
+    Velocidade - Transações Litecoin são confirmadas mais rapidamente por causa da geração de blocos a cada 90 segundos, muito menos que os 600 segundos do Bitcoin. Isso significa que o destinatário receberá o dinheiro mais rápido.
+    Liquidez- Litecoin produzirá um total de 84 milhões de moedas, o Bitcoin apenas 21 milhões. Isso significa que haverá mais disponibilidade para efetuar as compras diárias e de menor valor, diferentemente do Bitcoin, cuja moeda se torna mais valiosa e acabará sendo destinadas a compras de valor mais expressivos.
     Equality- Litecoin miners use a slightly different mining protocol which creates a fairer distribution of coins.
     Technology- Litecoin is capable of testing and implementing technology faster than Bitcoin. For example, Litecoin pioneered the way for the technology called Segregated Witness by implementing it three months before Bitcoin. This technology is significant because it allows both Bitcoin and Litecoin to scale by making them faster and creates lower transaction fees.
 
