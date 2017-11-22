@@ -1,6 +1,6 @@
 # 1.  Uma introdução às criptomoedas e ao Litecoin
 
-Olá, bem vindo(a) ao mundo das criptomoedas! Se vocÊ está lendo isso, então você está com sorte. Neste momento, você têm a oportunidade de se tornar uma das primeiras pessoas do mundo a participar de uma revolução no mundo financeiro e econômico que está agitando o mundo. Mas, antes de você comprar Litecoin ou qualquer outra criptomoeda, é importante entender o que uma criptomoeda é realmente. Esse guia dará a você uma rápida explicação sobre o que é uma criptomoeda e contará a breve história do Litecoin.
+Olá, bem vindo(a) ao mundo das criptomoedas! Se você está lendo isso, então você está com sorte. Neste momento, você têm a oportunidade de se tornar uma das primeiras pessoas do mundo a participar de uma revolução no mundo financeiro e econômico que está agitando o mundo. Mas, antes de você comprar Litecoin ou qualquer outra criptomoeda, é importante entender o que uma criptomoeda é realmente. Esse guia dará a você uma rápida explicação sobre o que é uma criptomoeda e contará a breve história do Litecoin.
 
 ## O que são criptomoedas?
 
