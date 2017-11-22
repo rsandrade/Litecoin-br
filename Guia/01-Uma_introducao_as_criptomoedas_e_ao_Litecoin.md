@@ -1,17 +1,20 @@
 # 1.  Uma introdução às criptomoedas e ao Litecoin
 
-Hi there and welcome to the world of cryptocurrency! If you’re reading this then you’re in luck. You now have the opportunity to become an early adopter of a financial revolution that is taking the world by storm. But before you purchase Litecoin, or any cryptocurrency for that matter, it is important to understand what exactly it is that you are buying. This guide will give you a quick overview of what cryptocurrency is as well as a brief history of Litecoin.
-What is Cryptocurrency?
+Olá, bem vindo(a) ao mundo das criptomoedas! Se vocÊ está lendo isso, então você está com sorte. Neste momento, você têm a oportunidade de se tornar uma das primeiras pessoas do mundo a participar de uma revolução no mundo financeiro e econômico que está agitando o mundo. Mas, antes de você comprar Litecoin ou qualquer outra criptomoeda, é importante entender o que uma criptomoeda é realmente. Esse guia dará a você uma rápida explicação sobre o que é uma criptomoeda e contará a breve história do Litecoin.
 
-    “The most interesting and useful thing about blockchains is their ability to empower people in new ways. Blockchains put power in the hands of people, and take it away from large institutions.” -Nick Tomaino
+## O que são criptomoedas?
 
-Cryptocurrency is an alternative form of payment to cash, credit cards, and checks. The technology behind it allows you to send it directly to others without going through a 3rd party like a bank. This means you don’t have to use your social security or credit score as collateral in order to use crypto, which also gives you complete anonymity.
+    “A coisa mais interessante e útil sobre as blockchains é sua habilidade de empoderar pessoas em nnovas formas. Blockchains põe poder nas mãos das pessoas, retirando das grandes instituições.” -Nick Tomaino
 
-As you can imagine, there are many exciting use cases for this. You can send money back to your family without incurring hefty international fees if you’re working a different country. Merchants no longer have to worry about payment fraud or invalid checks because people can only spend what they have. This “peer to peer” economy is all made possible through something called “blockchain technology.”
+Criptomoedas são uma forma alternativa de pagamento frente às tradicionais formas de dinheiro em espécie, cartões de crédito e cheques. A tecnologia por trás delas permite o envio de valores diretamente a outras pessoas sem envolvimento de terceiros, como os bancos. Isso quer dizer que você não precisa informar ou depender de seu RG, CPF ou cadastro financeiro como requisito para usar as "criptos" (apelido das criptomoedas), o que pode até mesmo conferir a você anonimicidade na maioria dos casos.
 
-*Sidenote: I will use Litecoin (LTC) as my currency of choice for the rest of this article.
-What is Blockchain Technology?
-Imagine a block like a folder with information stuffed inside.
+Como você pode imaginar, há muitos usos interessantes para uma solução como essa. Você pode enviar dinheiro para sua família, sem se preocupar com taxas internacionais se você estiver trabalhando em outro país, por exemplo. Comerciantes não não precisam se preocupar com fraudes, golpes ou cheques "borrachudos", pois as pessoas só poderão gastar o que possuem. Essa economia "ponto-a-ponto" é totalmente possível por algo chamado "tecnologia blockchain" ou "tecnologia de encadeamento de blocos".
+
+*Nota: Usaremos Litecoin (LTC) como nossa criptomoeda de exemplo para o restante deste Guia.
+
+## O que é a Tecnologia Blockchain?
+
+Imagine um bloco como se fosse uma pasta contendo muitos documentos com informação dentro.
 
 In its simplest form, blockchain is data. It’s a list of recorded information called “blocks” strung together in a chain. Think of blocks as folders stuffed with information i.e. how much Litecoin was sent, who sent it, and who received it. The great thing about blockchains is that it’s public and anyone in the world can see it. You can literally go back to January 1, 2015 at 10:15am and see if any LTC was sent at that time! The fact that it acts like a ledger is one of the many reasons why people see value in it.
 When you add a block, you are adding a link to the chain.
