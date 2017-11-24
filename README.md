@@ -67,8 +67,8 @@ O Litecoin pretende incluir diversas novas tecnologias. Seu [_Roadmap_](https://
   - [Archives World Map](https://map.arquivista.net)
 
 - Pagamento de contas (boletos e afins)
- - [KaMoney Brasil](https://www.kamoney.com.br)
- - [Pague.nu](https://pague.nu)
+  - [KaMoney Brasil](https://www.kamoney.com.br)
+  - [Pague.nu](https://pague.nu)
 
 ## Utilizando Litecoin no exterior
 
