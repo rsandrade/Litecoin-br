@@ -63,8 +63,12 @@ O Litecoin pretende incluir diversas novas tecnologias. Seu [_Roadmap_](https://
   - [9Bravos](http://www.9bravos.com.br/loja) (2% de desconto)
   
 - Doações (ONGs, associações e afins)
-  - [Raul Hacker Club](http://raulhc.cc/)
+  - [Raul Hacker Club](https://www.kamoney.com.br)
   - [Archives World Map](https://map.arquivista.net)
+
+- Pagamento de contas (boletos e afins)
+ - [KaMoney Brasil](https://www.kamoney.com.br)
+ - [Pague.nu](https://pague.nu)
 
 ## Utilizando Litecoin no exterior
 
