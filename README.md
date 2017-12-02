@@ -72,6 +72,7 @@ O Litecoin pretende incluir diversas novas tecnologias. Seu [_Roadmap_](https://
 
 ## Utilizando Litecoin no exterior
 
+- [Use Litecoin!](http://www.uselitecoin.info)
 - Listagem do site [Litecoin.com](https://litecoin.com/services#merchants)
 
 ## Comunidades
