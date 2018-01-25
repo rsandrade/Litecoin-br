@@ -3,7 +3,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/rsandrade/litecoin-br/master/img/256px-Full_Logo_L.png"> [Litecoin](https://litecoin.com/pt/) é uma criptomoeda baseada em tecnologia ponto-a-ponto (peer-to-peer) que permite pagamentos instantâneos, com taxas quase inexistentes, entre pessoas localizadas em qualquer lugar do mundo. Litecoin existe há cerca de 6 anos, possui código-fonte aberto e é uma rede de pagamentos global totalmente descentralizada. A matemática (criptografia) envolvida assegura à rede um altíssimo nível de segurança, além de conferir aos usuários controle sobre suas finanças.
 
-Comparada com o Bitcoin, o Litecoin possui um tempo de execução das transações mais rápido (~2,5 minutos), além de um suprimento maior de moedas (84 milhões, frente às 21 milhões do bitcoin).
+Comparada com o Bitcoin, o Litecoin possui um tempo de execução das transações muito mais rápido (de 15 segundos a ~2,5 minutos), além de um suprimento maior de moedas (84 milhões, frente às 21 milhões do bitcoin).
 
 Contando atualmente com um substancial suporte dos usuários e instituições do mundo das criptomoedas, volume de comércio e 
 liquidez, Litecoin provê ao comércio um complemento à adoção do Bitcoin. Litecoin é uma das mais populares criptomoedas do mundo.
@@ -73,9 +73,8 @@ O Litecoin pretende incluir diversas novas tecnologias. Seu [_Roadmap_](https://
   - [Pague.nu](https://pague.nu)
 
 ## Utilizando Litecoin no exterior
-
+- Listagem do site oficial [Litecoin.com](https://litecoin.com/services#merchants)
 - [Use Litecoin!](http://www.uselitecoin.info)
-- Listagem do site [Litecoin.com](https://litecoin.com/services#merchants)
 
 ## Comunidades
 
