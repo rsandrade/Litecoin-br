@@ -53,7 +53,7 @@ O Litecoin pretende incluir diversas novas tecnologias. Seu [_Roadmap_](https://
   - [Mercado Bitcoin](https://www.mercadobitcoin.com.br/)
   - [Negociecoins](https://www.negociecoins.com.br)
   - [Braziliex](https://braziliex.com)
-  - [Bitcoin Trade](https://www.bitcointrade.com.br)
+  - [Bitcoin Trade](https://www.bitcointrade.com.br) (em breve)
   - [Outras formas](https://www.buybitcoinworldwide.com/pt-br/litecoin/compre/) (post externo)
   - [LitecoinLocal](https://www.litecoinlocal.net/) (mercado que põe negociantes em contato direto)
 
