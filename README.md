@@ -51,9 +51,9 @@ O Litecoin pretende incluir diversas novas tecnologias. Seu [_Roadmap_](https://
 
 - Adquira Litecoin no Brasil
   - [Mercado Bitcoin](https://www.mercadobitcoin.com.br/) (casa de câmbio online)
-  - [Negociecoins](https://www.negociecoins.com.br)
-  - [Braziliex](https://braziliex.com)
-  - [Outras formas](https://www.buybitcoinworldwide.com/pt-br/litecoin/compre/) (post externo)
+  - [Negociecoins](https://www.negociecoins.com.br)
+  - [Braziliex](https://braziliex.com)
+  - [Outras formas](https://www.buybitcoinworldwide.com/pt-br/litecoin/compre/) (post externo)
   - [LitecoinLocal](https://www.litecoinlocal.net/) (mercado que põe negociantes em contato direto)
 
 - Adquira Litecoin no exterior
