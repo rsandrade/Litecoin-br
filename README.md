@@ -85,4 +85,4 @@ O Litecoin pretende incluir diversas novas tecnologias. Seu [_Roadmap_](https://
 ## Gostou deste Guia?
 
 Pague um café para o criador doando alguns Lites :)
-- Envie LTC para [LUeRE1BCAftPb2NGJyfy5bSXtmUXbEfHS7](https://live.blockcypher.com/ltc/address/LUeRE1BCAftPb2NGJyfy5bSXtmUXbEfHS7/)
+- Envie LTC para [LdMwrnsBoggWVcHcM7yeg242e8QqetYAzU](https://live.blockcypher.com/ltc/address/LdMwrnsBoggWVcHcM7yeg242e8QqetYAzU/)
