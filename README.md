@@ -78,7 +78,7 @@ O Litecoin pretende incluir diversas novas tecnologias. Seu [_Roadmap_](https://
 
 ## Aceitando Litecoin em seu site e-commerce
 
-- [Solução com componentes Open Source](ColchaDeRetalhos.md) (em inglês)
+- [Xadrez](Xadrez.md) - Solução Open Source para e-commerce com BTC e LTC (em inglês)
   - Wordpress
   - Woocommerce
   - BTCpay (habilita BTC e LTC)
