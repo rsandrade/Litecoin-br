@@ -76,6 +76,15 @@ O Litecoin pretende incluir diversas novas tecnologias. Seu [_Roadmap_](https://
 - Listagem do site oficial [Litecoin.com](https://litecoin.com/services#merchants)
 - [Use Litecoin!](http://www.uselitecoin.info)
 
+## Aceitando Litecoin em seu site e-commerce
+
+- [Solução com componentes Open Source](ColchaDeRetalhos.md) (em inglês)
+  - Wordpress
+  - Woocommerce
+  - BTCpay (habilita BTC e LTC)
+  - Samourai Wallet
+  - Loafwallet
+
 ## Comunidades
 
 - Grupo Telegram: [Litecoin Brasil](https://t.me/litecoinbr)
