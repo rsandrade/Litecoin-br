@@ -1,7 +1,7 @@
 # Xadrez 
 **Open Source solution for e-commerce store that accepts BTC and LTC**
 
-*This guide is not finished yet (I expect to put images and detail step-by-step the setup). If consider this useful, contribute with some lites to LTC address: [LdMwrnsBoggWVcHcM7yeg242e8QqetYAzU](litecoin:LdMwrnsBoggWVcHcM7yeg242e8QqetYAzU)*
+*This guide is not finished yet (I expect to put images and detail step-by-step the setup). At this stage you can get good ideas and directions to build your own e-store. If consider this useful, contribute with some lites to LTC address: [LdMwrnsBoggWVcHcM7yeg242e8QqetYAzU](litecoin:LdMwrnsBoggWVcHcM7yeg242e8QqetYAzU)*
 
 ## Introduction
 
@@ -49,7 +49,7 @@ To get the Derivation Scheme - at Samourai Wallet - you need to click upper righ
 
 TODO: Nicolas Dorier, BTCpay Server maintener, [was in doubt about the gap limit of Samourai](https://twitter.com/NicolasDorier/status/968638958438572032). Need to be checked to validate the use of Samourai Wallet.
 
-> [Electurm-LTC](https://electrum-ltc.org/)
+> [Electrum-LTC](https://electrum-ltc.org/)
 
 *Electrum-LTC is a simple, but powerful Litecoin wallet. A twelve-word security passphrase (or “seed”) leaves intruders stranded and your peace of mind intact.*
 
