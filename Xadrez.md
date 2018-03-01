@@ -1,9 +1,14 @@
-## Xadrez 
-# Solução Open Source para e-commerce com BTC e LTC (em inglês)
+# Xadrez 
+**Open Source solution for a e-commerce store that accepts BTC and LTC**
+
+## Abstract
 
 
-Wordpress
-Woocommerce
-BTCpay (habilita BTC e LTC)
-Samourai Wallet
-Loafwallet
+
+## Components
+
+  - Wordpress
+  - Woocommerce
+  - BTCpay
+  - Samourai Wallet
+  - Loafwallet
