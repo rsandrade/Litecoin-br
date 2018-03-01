@@ -39,6 +39,12 @@ The minimum infrastructure to setup this can be purchased at [Digital Ocean](htt
 
 You will need to prune the ```bitcoind``` including a new line with argument ```prune=2000M``` at BITCOIN_EXTRA_ARGS in ```docker-compose.btc-ltc.yml``` file. Do not prune ```litecoind```.
 
+> ["Wordpress-Woocommerce-BTCpay" plugin](https://github.com/btcpayserver/woocommerce-plugin)
+
+*Add the ability to accept Bitcoin and Litecoin in WooCommerce via BTCpay Server.*
+
+This plugin will link BTCpay Server and Wordpress+WooCommerce.
+
 > [Samourai Wallet](https://samouraiwallet.com/)
 
 *A modern bitcoin wallet hand forged to keep your transactions private, your identity masked, and your funds secure.*
