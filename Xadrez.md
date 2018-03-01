@@ -1,6 +1,6 @@
 <img src="./img/xadrez.jpg" width="16%"><br>
 # Xadrez 
-**Seeking the best open source setup for e-commerce store that accepts Litecoin (LTC) and Bitcoin (BTC)**
+**Seeking the best open source setup for an e-commerce store that accepts Litecoin (LTC) and Bitcoin (BTC)**
 
 *This guide is not finished yet (I expect to put images and describe everything step-by-step). At this stage you can get good ideas and directions to build your own e-store. If you consider this useful, contribute with some lites to LTC address: [LdMwrnsBoggWVcHcM7yeg242e8QqetYAzU](https://live.blockcypher.com/ltc/address/LdMwrnsBoggWVcHcM7yeg242e8QqetYAzU/)*
 
