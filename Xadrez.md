@@ -47,7 +47,7 @@ Samourai will provide us the Derivation Scheme necessary to inform BTCpay Server
 
 To get the Derivation Scheme - at Samourai Wallet - you need to click upper right icon, choose Settings, Choose Wallets and decide if you want or not to use segwit addresses. Segwit is extremely recommended. Use the Segwit YPUB code at BTCpay Server to generate Segwit addresses which will send the funds to your Samourai wallet.
 
-TODO: Nicolas Dorier, BTCpay Server maintener, [was in doubt about the gap limit of Samourai](https://twitter.com/NicolasDorier/status/968638958438572032). This need to be checked to validate the use of Samourai Wallet.
+TODO: Nicolas Dorier, BTCpay Server maintener, [was in doubt about the gap limit of Samourai](https://twitter.com/NicolasDorier/status/968638958438572032). Need to be checked to validate the use of Samourai Wallet.
 
 > [Electurm-LTC](https://electrum-ltc.org/)
 
