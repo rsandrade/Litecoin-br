@@ -1,11 +1,11 @@
 # Xadrez 
-**Open Source solution for e-commerce store that accepts BTC and LTC**
+**Open Source solution for e-commerce store that accepts Litecoin (LTC) and Bitcoin (BTC)**
 
 *This guide is not finished yet (I expect to put images and describe everything step-by-step). At this stage you can get good ideas and directions to build your own e-store. If consider this useful, contribute with some lites to LTC address: [LdMwrnsBoggWVcHcM7yeg242e8QqetYAzU](litecoin:LdMwrnsBoggWVcHcM7yeg242e8QqetYAzU)*
 
 ## Introduction
 
-This tutorial expect to give directions and tools to anyone who want to setup an ecommerce store that accepts Bitcoin (BTC) and Litecoin (LTC). Old payment methods like credit card and stuff can be enabled too. All components of the solution are open source software and can be obtained at their project websites.
+This tutorial expect to give directions and tools to anyone who want to setup an ecommerce store that accepts Litecoin (LTC) and Bitcoin (BTC). Old payment methods like credit card and stuff can be enabled too. All components of the solution are open source software and can be obtained at their project websites.
 
 This setup is called Xadrez just to turn easier to anyone who want to refer the proposal presented here. Xadrez is Chess in portuguese language and we will change the pieces (the components) on the board until we reach a very nice full featured setup, stable and definitive ecommerce store (the Checkmate). 
 
