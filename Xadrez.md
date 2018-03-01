@@ -53,7 +53,7 @@ TODO: Nicolas Dorier, BTCpay Server maintener, [was in doubt about the gap limit
 
 *Electrum-LTC is a simple, but powerful Litecoin wallet. A twelve-word security passphrase (or “seed”) leaves intruders stranded and your peace of mind intact.*
 
-Electurm-LTC is not an mobile wallet but will generate the Derivation Scheme you need to fill the field at BTCpay Server.
+Electrum-LTC is not an mobile wallet but will generate the Derivation Scheme you need to fill the field at BTCpay Server.
 
 The Electrum-LTC website inform the gap limit as 5 by default and appear it needs to be changed to 20 due [the requirement of BTCpay Server](https://twitter.com/NicolasDorier/status/968638958438572032).
 
