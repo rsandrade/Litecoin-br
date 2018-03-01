@@ -23,7 +23,7 @@ Wordpress is the foundation of the store. On it, we will install a plugin to con
 
 The minimum infrastructure to setup this can be purchased at [Digital Ocean](https://m.do.co/c/ec2caf98348a). You can create your Droplet for Wordpress using an *One-click apps* image called *Wordpress 4.9.1 on 16.04* or higher on the plan described as *1 GB, 1 vCPU, 25 GB, 1 TB* will costs $5/mo.
 
-> [WooCommerce](https://woocommerce.com)
+> [WooCommerce plugin](https://woocommerce.com)
 
 *WooCommerce is an open-source, completely customizable eCommerce platform for entrepreneurs worldwide. Go beyond the confines of traditional eCommerce solutions, and be limited only by your own imagination.*
 
