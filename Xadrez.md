@@ -1,6 +1,8 @@
 # Xadrez 
 **Open Source solution for e-commerce store that accepts BTC and LTC**
 
+*This guide is not finished yet (I expect to put images and detail step-by-step the setup). If consider this useful, contribute with some lites to LTC address: [LdMwrnsBoggWVcHcM7yeg242e8QqetYAzU](litecoin:LdMwrnsBoggWVcHcM7yeg242e8QqetYAzU)*
+
 ## Introduction
 
 This tutorial expect to give directions and tools to anyone who want to setup an ecommerce store that accepts Bitcoin (BTC) and Litecoin (LTC). Old payment methods like credit card and stuff can be enabled too. All components of the solution are open source software and can be obtained at their project websites.
@@ -19,6 +21,8 @@ Actual setup of Xadrez is compose of the components listed and described below.
 
 Wordpress is the foundation of the store. On it, we will install a plugin to convert this content management system into a full featured ecommerce store.
 
+The minimum infrastructure to setup this can be purchased at [Digital Ocean](https://m.do.co/c/ec2caf98348a). You can create your Droplet for Wordpress using an *One-click apps* image called *Wordpress 4.9.1 on 16.04* or higher on the plan described as *1 GB, 1 vCPU, 25 GB, 1 TB* will costs $5/mo.
+
 > [WooCommerce](https://woocommerce.com)
 
 *WooCommerce is an open-source, completely customizable eCommerce platform for entrepreneurs worldwide. Go beyond the confines of traditional eCommerce solutions, and be limited only by your own imagination.*
@@ -31,7 +35,7 @@ This is the plugin I mentioned above. WooCommerce is widely used and offer a bun
 
 BTCpay Server will will turn the merchant into a self sovereign one. The merchant (or some merchants who trust themselves) will run a payment gateway and link the store (Wordpress + WooCommerce) to it using a Woocommerce addon plugin from BTCpayServer project. 
 
-The recommended infrastructure to setup this environment can be purchased at [Digital Ocean](https://m.do.co/c/ec2caf98348a). You can create your Droplet for BTCpay Server (check about BTCpay below) using an *One-click apps* image called *Docker 17.12.0~ce on 16.04*, the plan described as *2 GB, 1 vCPU, 50 GB, 2 TB* will costs $10/mo.
+The minimum infrastructure to setup this can be purchased at [Digital Ocean](https://m.do.co/c/ec2caf98348a). You can create your Droplet for BTCpay Server (check about BTCpay below) using an *One-click apps* image called *Docker 17.12.0~ce on 16.04* on the plan described as *2 GB, 1 vCPU, 50 GB, 2 TB* will costs $10/mo.
 
 You will need to prune the ```bitcoind``` including a new line with argument ```prune=2000M``` at BITCOIN_EXTRA_ARGS in ```docker-compose.btc-ltc.yml``` file. Do not prune ```litecoind```.
 
@@ -53,7 +57,7 @@ Electurm-LTC is not an mobile wallet but will generate the Derivation Scheme you
 
 The Electrum-LTC website inform the gap limit as 5 by default and appear it needs to be changed to 20 due [the requirement of BTCpay Server](https://twitter.com/NicolasDorier/status/968638958438572032).
 
-The segwit addresses will be generated with bech32 format, not compatible with some wallets yet and it can be a problem for customers until wallets upgrade to that format.
+The segwit addresses will be generated using bech32 format, not compatible with some wallets yet and it can be a problem for customers until wallets upgrade to that format.
 
 > [Loafwallet](https://www.loadwallet.org)
 
