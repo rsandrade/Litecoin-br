@@ -9,7 +9,7 @@ This tutorial expect to give directions and tools to anyone who want to setup an
 
 This setup is called Xadrez just to turn easier to anyone who want to refer the proposal presented here. Xadrez is Chess in portuguese language and we will change the pieces (the components) on the board until we reach a very nice full featured setup, stable and definitive ecommerce store (the Checkmate). 
 
-The ecoomerce store we want to setup need to use stable software, easy to configure by merchants with no more than basic tech skills and be able to show products, handle carts, inventory, customer accounts, generate reports and others expected characteristcs. The crypto funds received need to go directly to the merchant's (preferable mobile) wallets.
+The ecommerce store we want to setup will need to use stable software, easy to configure by merchants with no more than basic tech skills and be able to show products, handle carts, inventory, customer accounts, generate reports and others expected capabilities. The crypto funds received need to go directly to the merchant's (preferable mobile) wallets.
 
 ## Components
 
