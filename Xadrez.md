@@ -39,6 +39,27 @@ You will need to prune the ```bitcoind``` including a new line with argument ```
 
 *A modern bitcoin wallet hand forged to keep your transactions private, your identity masked, and your funds secure.*
 
+Samourai will provide us the Derivation Scheme necessary to inform BTCpay Server. Derivation Scheme will generate different addresses (public keys) to every order at store.
+
+To get the Derivation Scheme - at Samourai Wallet - you need to click upper right icon, choose Settings, Choose Wallets and decide if you want or not to use segwit addresses. Segwit is extremely recommended. Use the Segwit YPUB code at BTCpay Server to generate Segwit addresses which will send the funds to your Samourai wallet.
+
+TODO: Nicolas Dorier, BTCpay Server maintener, [was in doubt about the gap limit of Samourai](https://twitter.com/NicolasDorier/status/968638958438572032). This need to be checked to validate the use of Samourai Wallet.
+
+> [Electurm-LTC](https://electrum-ltc.org/)
+
+*Electrum-LTC is a simple, but powerful Litecoin wallet. A twelve-word security passphrase (or “seed”) leaves intruders stranded and your peace of mind intact.*
+
+Electurm-LTC is not an mobile wallet but will generate the Derivation Scheme you need to fill the field at BTCpay Server.
+
+The Electrum-LTC website inform the gap limit as 5 by default and appear it needs to be changed to 20 due [the requirement of BTCpay Server](https://twitter.com/NicolasDorier/status/968638958438572032).
+
+The segwit addresses will be generated with bech32 format, not compatible with some wallets yet and it can be a problem for customers until wallets upgrade to that format.
+
 > [Loafwallet](https://www.loadwallet.org)
 
 *Loafwallet is the best standalone Litecoin wallet built for iOS and Android. It is available to download for free on the Apple App Store and Play Store!*
+
+Loafwallet will be the best choice for accept LTC in Xadrez setup when archive some requirements as listed:
+  - Be compatible with segwit (probably at 2.1 version)
+  - Inform the Derivation Scheme
+  - Has the recommended gap limit of 20 addresses
