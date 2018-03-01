@@ -19,7 +19,7 @@ Actual setup of Xadrez is compose of the components listed and described below.
 
 *"WordPress started in 2003 with a single bit of code to enhance the typography of everyday writing and with fewer users than you can count on your fingers and toes. Since then it has grown to be the largest self-hosted blogging tool in the world, used on millions of sites and seen by tens of millions of people every day."*
 
-Wordpress is the foundation of the store. On it, we will install a plugin to convert this content management system into a full featured ecommerce store.
+Wordpress is a popular Content Management System (CMS) used to run portals, websites, blogs and many different kinds of websites. We will use it to run the store. A plugin (Woocommerce) will convert this content management system into a full featured ecommerce store as described below.
 
 The minimum infrastructure to setup this can be purchased at [Digital Ocean](https://m.do.co/c/ec2caf98348a). You can create your Droplet for Wordpress using an *One-click apps* image called *Wordpress 4.9.1 on 16.04* or higher on the plan described as *1 GB, 1 vCPU, 25 GB, 1 TB* will costs $5/mo.
 
@@ -27,7 +27,7 @@ The minimum infrastructure to setup this can be purchased at [Digital Ocean](htt
 
 *WooCommerce is an open-source, completely customizable eCommerce platform for entrepreneurs worldwide. Go beyond the confines of traditional eCommerce solutions, and be limited only by your own imagination.*
 
-This is the plugin I mentioned above. WooCommerce is widely used and offer a bunch of good quality addons to improve your store.
+This is the plugin mentioned above. WooCommerce is widely used and offer a bunch of good quality addons to improve your store.
 
 > [BTCpay](https://github.com/btcpayserver/btcpayserver)
 
