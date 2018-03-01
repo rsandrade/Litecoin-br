@@ -1,4 +1,4 @@
-<img src="./img/xadrez.jpg"><br>
+<img src="./img/xadrez.jpg" width="16%"><br>
 # Xadrez 
 **Open source solution for e-commerce store that accepts Litecoin (LTC) and Bitcoin (BTC)**
 
