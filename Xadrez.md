@@ -22,7 +22,7 @@ Currently setup of Xadrez is formed by the components listed and described below
 
 Wordpress is a popular Content Management System (CMS) used to run portals, websites, blogs and many different kinds of websites. We will use it to run the store. A plugin (Woocommerce) will convert this content management system into a full featured ecommerce store as described below.
 
-The minimum infrastructure to setup this can be purchased at [Digital Ocean](https://m.do.co/c/ec2caf98348a). You can create your Droplet for Wordpress using an ```One-click apps``` image called ```Wordpress 4.9.1 on 16.04``` or higher on the plan described as ```1 GB, 1 vCPU, 25 GB, 1 TB``` will costs $5/mo.
+The minimum infrastructure to setup this can be purchased at [Digital Ocean](https://m.do.co/c/ec2caf98348a). You can create your Droplet for Wordpress using an ```One-click apps``` image called ```Wordpress 4.9.1 on 16.04``` or higher on the plan described as ```1 GB, 1 vCPU, 25 GB, 1 TB``` - that will costs $5/mo.
 
 > [WooCommerce plugin](https://woocommerce.com)
 
@@ -36,7 +36,7 @@ This is the plugin mentioned above. WooCommerce is widely used and offer a bunch
 
 BTCpay Server will will turn the merchant into a self sovereign one. The merchant (or some merchants who trust themselves) will run a payment gateway and link the store (Wordpress + WooCommerce) to it using a Woocommerce addon plugin from BTCpayServer project. 
 
-The minimum infrastructure to setup this can be purchased at [Digital Ocean](https://m.do.co/c/ec2caf98348a). You can create your Droplet for BTCpay Server (check about BTCpay below) using an ```One-click apps``` image called ```Docker 17.12.0~ce on 16.04``` on the plan described as ```2 GB, 1 vCPU, 50 GB, 2 TB``` will costs $10/mo.
+The minimum infrastructure to setup this can be purchased at [Digital Ocean](https://m.do.co/c/ec2caf98348a). You can create your Droplet for BTCpay Server (check about BTCpay below) using an ```One-click apps``` image called ```Docker 17.12.0~ce on 16.04``` on the plan described as ```2 GB, 1 vCPU, 50 GB, 2 TB``` - that will costs $10/mo.
 
 You will need to prune the ```bitcoind``` including a new line with argument ```prune=2000M``` at BITCOIN_EXTRA_ARGS in ```docker-compose.btc-ltc.yml``` file. Do not prune ```litecoind```.
 
