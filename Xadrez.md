@@ -8,13 +8,13 @@
 1. [Introduction](#introduction)
 2. [Components](#components)
     2.1. [Wordpress](#wordpress)
-    2.1. [WooCommerce plugin](#wordpress)
-    2.1. [BTCpay Server](#btcpay)
-    2.1. ["Wordpress-Woocommerce-BTCpay" plugin](#wordpress)
-    2.1. [Electrum](#electrum)
-    2.1. [Electrum-LTC](#electrum-ltc)
-    
-3. [Another paragraph](#paragraph2)
+    2. [WooCommerce plugin](#woocommerce-plugin)
+    3. [BTCpay Server](#btcpay-server)
+    4. ["Wordpress-Woocommerce-BTCpay" plugin](#wordpress-woocommerce-btcpay-plugin)
+    5. [Electrum](#electrum)
+    6. [Electrum-LTC](#electrum-ltc)
+    7. [Samourai Wallet](#samourai-wallet)
+    8. [Loafwallet](#loafwallet)
 
 ## Introduction
 
