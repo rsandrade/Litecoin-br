@@ -56,7 +56,7 @@ You need to create a new Segwit wallet or just use any you already have and copy
 
 Another change is the gap limit of wallet. The standard gap limit is low but to reach the best peace of mind level we will change it to a higher number like 2000. 
 
-Go to menu ```View``` and be sure the last submenu is ```Hide console``` if it isn't click at ```Show console```. Open the ```Console tab``` and use the commands at prompt: ```wallet.change_gap_limit(2000)``` and press enter at your keyboard, ```wallet.storage.write()``` and press enter again.
+Go to menu ```View``` and be sure the last submenu is ```Hide console``` if it isn't click at ```Show console```. Open the ```Console tab``` and use the following commands at prompt: ```wallet.change_gap_limit(2000)``` and press enter at your keyboard, ```wallet.storage.write()``` and press enter again.
 
 > [Electrum-LTC](https://electrum-ltc.org/)
 
@@ -68,7 +68,7 @@ You need to create a Segwit wallet or just use any you already have  and copy th
 
 Another change is the gap limit of wallet. The standard gap limit is low but to reach the best peace of mind level we will change it to a higher number like 2000. 
 
-Go to menu ```View``` and be sure the last submenu is ```Hide console``` if it isn't click at ```Show console```. Open the ```Console tab``` and use the commands at prompt: ```wallet.change_gap_limit(2000)``` and press enter at your keyboard, ```wallet.storage.write()``` and press enter again.
+Go to menu ```View``` and be sure the last submenu is ```Hide console``` if it isn't click at ```Show console```. Open the ```Console tab``` and use the following commands at prompt: ```wallet.change_gap_limit(2000)``` and press enter at your keyboard, ```wallet.storage.write()``` and press enter again.
 
 > [Samourai Wallet](https://samouraiwallet.com/)
 
