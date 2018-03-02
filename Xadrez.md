@@ -16,7 +16,7 @@
     2.7. [Samourai Wallet](#samourai-wallet)
     2.8. [Loafwallet](#loafwallet)
 
-## Introduction
+## Introduction <a name="introduction"></a>
 
 This tutorial expect to give directions and tools to anyone who want to setup an ecommerce store that accepts Litecoin (LTC) and Bitcoin (BTC). Old payment methods like credit card and stuff can be enabled too. All components in this solution are open source software and can be obtained at their websites.
 
@@ -24,7 +24,7 @@ This setup is called Xadrez just to be easier to anyone who want to refer the pr
 
 The e-commerce store setup need to use stable software, be easy to configure by merchants with no more than basic tech skills and be able to show products, handle carts, inventory, customer accounts, generate reports and others expected capabilities. All the Litecoin and Bitcoin received need to go directly to the merchant's (preferable mobile) wallets.
 
-## Components
+## Components <a name="components"></a>
 
 Currently setup of Xadrez is formed by the components listed and described below.
 
