@@ -50,7 +50,7 @@ This plugin will link BTCpay Server and Wordpress+WooCommerce.
 
 *Electrum is a lightweight Bitcoin wallet.*
 
-Electrum is a very good choice as wallet and fulfill all the needs of store manager and the best choice. The addresses generated at invoices will use the Segwit native Bech32 format.
+At this moment **Electrum is the best choice of Bitcoin wallet for Xadrez** and fulfill all the needs of store manager and the best choice. The addresses generated at invoices will use the Segwit native Bech32 format.
 
 You need to create a new Segwit wallet or just use any you already have and copy the Master Public Key from the menu ```Wallet``` > ```Information``` and paste it at BTCpay Server at ```Stores``` > ```Settings``` (if you already added a store) > ```Add or modify a derivation scheme```.
 
@@ -62,7 +62,7 @@ Go to menu ```View``` and be sure the last submenu is ```Hide console``` if it i
 
 *Electrum-LTC is a simple, but powerful Litecoin wallet. A twelve-word security passphrase (or “seed”) leaves intruders stranded and your peace of mind intact.*
 
-Electurm-LTC is a fork of Electrum and handle with Litecoin. The addresses generated at invoices will use the Segwit native Bech32 format.
+Electurm-LTC is a fork of Electrum and handle with Litecoin. At this moment **Electrum is the best choice of Litecoin wallet for Xadrez**. The addresses generated at invoices will use the Segwit native Bech32 format.
 
 You need to create a Segwit wallet or just use any you already have  and copy the Master Public Key from the menu ```Wallet``` > ```Information``` and paste it at BTCpay Server at ```Stores``` > ```Settings``` (if you already added a store) > ```Add or modify a derivation scheme```.
 
