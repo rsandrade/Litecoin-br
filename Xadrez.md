@@ -16,7 +16,7 @@ The e-commerce store setup need to use stable software, be easy to configure by 
 
 Currently setup of Xadrez is formed by the components listed and described below.
 
-> [Wordpress](https://www.wordpress.org)
+### [Wordpress](https://www.wordpress.org)
 
 *"WordPress started in 2003 with a single bit of code to enhance the typography of everyday writing and with fewer users than you can count on your fingers and toes. Since then it has grown to be the largest self-hosted blogging tool in the world, used on millions of sites and seen by tens of millions of people every day."*
 
@@ -24,13 +24,13 @@ Wordpress is a popular Content Management System (CMS) used to run portals, webs
 
 The minimum infrastructure to setup this can be purchased at [Digital Ocean](https://m.do.co/c/ec2caf98348a). You can create your Droplet for Wordpress using an ```One-click apps``` image called ```Wordpress 4.9.1 on 16.04``` or higher on the plan described as ```1 GB, 1 vCPU, 25 GB, 1 TB``` - that will costs $5/mo.
 
-> [WooCommerce plugin](https://woocommerce.com)
+### [WooCommerce plugin](https://woocommerce.com)
 
 *WooCommerce is an open-source, completely customizable eCommerce platform for entrepreneurs worldwide. Go beyond the confines of traditional eCommerce solutions, and be limited only by your own imagination.*
 
 This is the plugin mentioned above. WooCommerce is widely used and offer a bunch of good quality addons to improve your store.
 
-> [BTCpay](https://github.com/btcpayserver/btcpayserver)
+### [BTCpay](https://github.com/btcpayserver/btcpayserver)
 
 *BTCPay Server is a free and open source server for merchants wanting to accept Bitcoin for their business. The API is compatible with Bitpay service to allow seamless migration.*
 
@@ -40,13 +40,13 @@ The minimum infrastructure to setup this can be purchased at [Digital Ocean](htt
 
 You will need to prune the ```bitcoind``` including a new line with argument ```prune=2000M``` at BITCOIN_EXTRA_ARGS in ```docker-compose.btc-ltc.yml``` file. Do not prune ```litecoind```.
 
-> ["Wordpress-Woocommerce-BTCpay" plugin](https://github.com/btcpayserver/woocommerce-plugin)
+### ["Wordpress-Woocommerce-BTCpay" plugin](https://github.com/btcpayserver/woocommerce-plugin)
 
 *Add the ability to accept Bitcoin and Litecoin in WooCommerce via BTCpay Server.*
 
 This plugin will link BTCpay Server and Wordpress+WooCommerce.
 
-> [Electrum](https://www.electrum.org)
+### [Electrum](https://www.electrum.org)
 
 *Electrum is a lightweight Bitcoin wallet.*
 
@@ -58,7 +58,7 @@ Another change is the gap limit of wallet. The standard gap limit is low but to 
 
 Go to menu ```View``` and be sure the last submenu is ```Hide console``` if it isn't click at ```Show console```. Open the ```Console tab``` and use the following commands at prompt: ```wallet.change_gap_limit(2000)``` and press enter at your keyboard, ```wallet.storage.write()``` and press enter again.
 
-> [Electrum-LTC](https://electrum-ltc.org/)
+### [Electrum-LTC](https://electrum-ltc.org/)
 
 *Electrum-LTC is a simple, but powerful Litecoin wallet. A twelve-word security passphrase (or “seed”) leaves intruders stranded and your peace of mind intact.*
 
@@ -70,7 +70,7 @@ Another change is the gap limit of wallet. The standard gap limit is low but to 
 
 Go to menu ```View``` and be sure the last submenu is ```Hide console``` if it isn't click at ```Show console```. Open the ```Console tab``` and use the following commands at prompt: ```wallet.change_gap_limit(2000)``` and press enter at your keyboard, ```wallet.storage.write()``` and press enter again.
 
-> [Samourai Wallet](https://samouraiwallet.com/)
+### [Samourai Wallet](https://samouraiwallet.com/)
 
 *A modern bitcoin wallet hand forged to keep your transactions private, your identity masked, and your funds secure.*
 
@@ -80,7 +80,7 @@ To get the Derivation Scheme - at Samourai Wallet - you need to click upper righ
 
 TODO: Nicolas Dorier, BTCpay Server maintener, [was in doubt about the gap limit of Samourai](https://twitter.com/NicolasDorier/status/968638958438572032). Need to be checked to validate the use of Samourai Wallet.
 
-> [Loafwallet](https://www.loadwallet.org)
+### [Loafwallet](https://www.loadwallet.org)
 
 *Loafwallet is the best standalone Litecoin wallet built for iOS and Android. It is available to download for free on the Apple App Store and Play Store!*
 
