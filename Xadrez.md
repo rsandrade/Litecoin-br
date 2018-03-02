@@ -66,9 +66,9 @@ At this moment **Electrum is the best choice of Bitcoin wallet for Xadrez** and 
 
 You need to create a new Segwit wallet or just use any you already have and copy the Master Public Key from the menu ```Wallet``` > ```Information``` and paste it at BTCpay Server at ```Stores``` > ```Settings``` (if you already added a store) > ```Add or modify a derivation scheme```.
 
-Another change is the gap limit of wallet. The standard gap limit is low but to reach the best peace of mind level we will change it to a higher number like 2000. 
+Another change is the gap limit of wallet. The standard gap limit is low but to reach the best peace of mind level we will change it to a higher number like 200. 
 
-Go to menu ```View``` and be sure the last submenu is ```Hide console``` if it isn't click at ```Show console```. Open the ```Console tab``` and use the following commands at prompt: ```wallet.change_gap_limit(2000)``` and press enter at your keyboard, ```wallet.storage.write()``` and press enter again.
+Go to menu ```View``` and be sure the last submenu is ```Hide console``` if it isn't click at ```Show console```. Open the ```Console tab``` and use the following commands at prompt: ```wallet.change_gap_limit(200)``` and press enter at your keyboard, ```wallet.storage.write()``` and press enter again.
 
 ### [Electrum-LTC](https://electrum-ltc.org/)
 
@@ -78,9 +78,9 @@ Electurm-LTC is a fork of Electrum and handle with Litecoin. At this moment **El
 
 You need to create a Segwit wallet or just use any you already have  and copy the Master Public Key from the menu ```Wallet``` > ```Information``` and paste it at BTCpay Server at ```Stores``` > ```Settings``` (if you already added a store) > ```Add or modify a derivation scheme```.
 
-Another change is the gap limit of wallet. The standard gap limit is low but to reach the best peace of mind level we will change it to a higher number like 2000. 
+Another change is the gap limit of wallet. The standard gap limit is low but to reach the best peace of mind level we will change it to a higher number like 200. 
 
-Go to menu ```View``` and be sure the last submenu is ```Hide console``` if it isn't click at ```Show console```. Open the ```Console tab``` and use the following commands at prompt: ```wallet.change_gap_limit(2000)``` and press enter at your keyboard, ```wallet.storage.write()``` and press enter again.
+Go to menu ```View``` and be sure the last submenu is ```Hide console``` if it isn't click at ```Show console```. Open the ```Console tab``` and use the following commands at prompt: ```wallet.change_gap_limit(200)``` and press enter at your keyboard, ```wallet.storage.write()``` and press enter again.
 
 ### [Samourai Wallet](https://samouraiwallet.com/)
 
