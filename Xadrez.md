@@ -11,10 +11,10 @@
     2. [WooCommerce plugin](#woocommerce-plugin)
     3. [BTCpay Server](#btcpay-server)
     4. ["Wordpress-Woocommerce-BTCpay" plugin](#wordpress-woocommerce-btcpay-plugin)
-    5. [Electrum](#electrum)
-    6. [Electrum-LTC](#electrum-ltc)
-    7. [Samourai Wallet](#samourai-wallet)
-    .8. [Loafwallet](#loafwallet)
+    5. [Electrum](#electrum) (desktop wallet)
+    6. [Electrum-LTC](#electrum-ltc) (desktop wallet)
+    7. [Samourai Wallet](#samourai-wallet) (mobile wallet)
+    8. [Loafwallet](#loafwallet) (mobile wallet)
 
 ## Introduction <a name="introduction"></a>
 
