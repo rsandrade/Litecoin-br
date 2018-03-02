@@ -7,10 +7,16 @@
 # Table of contents
 1. [Introduction](#introduction)
 2. [Components](#components)
-    1. [Sub paragraph](#wordpress)
+    2.1. [Wordpress](#wordpress)
+    2.1. [WooCommerce plugin](#wordpress)
+    2.1. [BTCpay Server](#btcpay)
+    2.1. ["Wordpress-Woocommerce-BTCpay" plugin](#wordpress)
+    2.1. [Electrum](#electrum)
+    2.1. [Electrum-LTC](#electrum-ltc)
+    
 3. [Another paragraph](#paragraph2)
 
-## Introduction<a name="introduction"></a>
+## Introduction
 
 This tutorial expect to give directions and tools to anyone who want to setup an ecommerce store that accepts Litecoin (LTC) and Bitcoin (BTC). Old payment methods like credit card and stuff can be enabled too. All components in this solution are open source software and can be obtained at their websites.
 
@@ -18,7 +24,7 @@ This setup is called Xadrez just to be easier to anyone who want to refer the pr
 
 The e-commerce store setup need to use stable software, be easy to configure by merchants with no more than basic tech skills and be able to show products, handle carts, inventory, customer accounts, generate reports and others expected capabilities. All the Litecoin and Bitcoin received need to go directly to the merchant's (preferable mobile) wallets.
 
-## Components<a name="components"></a>
+## Components
 
 Currently setup of Xadrez is formed by the components listed and described below.
 
@@ -36,7 +42,7 @@ The minimum infrastructure to setup this can be purchased at [Digital Ocean](htt
 
 This is the plugin mentioned above. WooCommerce is widely used and offer a bunch of good quality addons to improve your store.
 
-### [BTCpay](https://github.com/btcpayserver/btcpayserver)
+### [BTCpay Server](https://github.com/btcpayserver/btcpayserver)
 
 *BTCPay Server is a free and open source server for merchants wanting to accept Bitcoin for their business. The API is compatible with Bitpay service to allow seamless migration.*
 
