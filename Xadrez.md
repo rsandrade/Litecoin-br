@@ -66,7 +66,7 @@ At this moment **Electrum is the best choice of Bitcoin wallet for Xadrez** and 
 
 You need to create a new Segwit wallet or just use any you already have and copy the Master Public Key from the menu ```Wallet``` > ```Information``` and paste it at BTCpay Server at ```Stores``` > ```Settings``` (if you already added a store) > ```Add or modify a derivation scheme```.
 
-Another change is the gap limit of wallet. The standard gap limit is low but to reach the best peace of mind level we will change it to a higher number like 200. 
+Another change is the gap limit of wallet. The standard gap limit is low but to reach the best peace of mind level we will change it to a higher number like 200. You will need to observe this number because it counts how many unpaid invoices inbetween occurs - if you do not want to pay attention on this details and want to be very sure will not be a problem, set it as 2000.
 
 Go to menu ```View``` and be sure the last submenu is ```Hide console``` if it isn't click at ```Show console```. Open the ```Console tab``` and use the following commands at prompt: ```wallet.change_gap_limit(200)``` and press enter at your keyboard, ```wallet.storage.write()``` and press enter again.
 
@@ -78,7 +78,7 @@ Electurm-LTC is a fork of Electrum and handle with Litecoin. At this moment **El
 
 You need to create a Segwit wallet or just use any you already have  and copy the Master Public Key from the menu ```Wallet``` > ```Information``` and paste it at BTCpay Server at ```Stores``` > ```Settings``` (if you already added a store) > ```Add or modify a derivation scheme```.
 
-Another change is the gap limit of wallet. The standard gap limit is low but to reach the best peace of mind level we will change it to a higher number like 200. 
+Another change is the gap limit of wallet. The standard gap limit is low but to reach the best peace of mind level we will change it to a higher number like 200. You will need to observe this number because it counts how many unpaid invoices inbetween occurs - if you do not want to pay attention on this details and want to be very sure will not be a problem, set it as 2000.
 
 Go to menu ```View``` and be sure the last submenu is ```Hide console``` if it isn't click at ```Show console```. Open the ```Console tab``` and use the following commands at prompt: ```wallet.change_gap_limit(200)``` and press enter at your keyboard, ```wallet.storage.write()``` and press enter again.
 
@@ -90,7 +90,7 @@ Samourai will provide us the Derivation Scheme necessary to inform BTCpay Server
 
 To get the Derivation Scheme - at Samourai Wallet - you need to click upper right icon, choose Settings, Choose Wallets and decide if you want or not to use segwit addresses. Segwit is extremely recommended. Use the Segwit YPUB code at BTCpay Server to generate Segwit addresses which will send the funds to your Samourai wallet.
 
-TODO: Nicolas Dorier, BTCpay Server maintener, [was in doubt about the gap limit of Samourai](https://twitter.com/NicolasDorier/status/968638958438572032). Need to be checked to validate the use of Samourai Wallet.
+TODO: Nicolas Dorier, BTCpay Server maintener, [was in doubt about the gap limit of Samourai](https://twitter.com/NicolasDorier/status/968638958438572032).
 
 ### [Loafwallet](https://www.loadwallet.org)
 
