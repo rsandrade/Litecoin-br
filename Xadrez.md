@@ -46,6 +46,30 @@ You will need to prune the ```bitcoind``` including a new line with argument ```
 
 This plugin will link BTCpay Server and Wordpress+WooCommerce.
 
+> [Electrum](https://www.electrum.org)
+
+*Electrum is a lightweight Bitcoin wallet.*
+
+Electrum is a very good choice as wallet and fulfill all the needs of store manager and the best choice. The addresses generated at invoices will use the Segwit native Bech32 format.
+
+You need to create a new Segwit wallet or just use any you already have and copy the Master Public Key from the menu ```Wallet``` > ```Information``` and paste it at BTCpay Server at ```Stores``` > ```Settings``` (if you already added a store) > ```Add or modify a derivation scheme```.
+
+Another change is the gap limit of wallet. The standard gap limit is low but to reach the best peace of mind level we will change it to a higher number like 2000. 
+
+Go to menu ```View``` and be sure the last submenu is ```Hide console``` if it isn't click at ```Show console```. Open the ```Console tab``` and use the commands at prompt: ```wallet.change_gap_limit(2000)``` and press enter at your keyboard, ```wallet.storage.write()``` and press enter again.
+
+> [Electrum-LTC](https://electrum-ltc.org/)
+
+*Electrum-LTC is a simple, but powerful Litecoin wallet. A twelve-word security passphrase (or “seed”) leaves intruders stranded and your peace of mind intact.*
+
+Electurm-LTC is a fork of Electrum and handle with Litecoin. The addresses generated at invoices will use the Segwit native Bech32 format.
+
+You need to create a Segwit wallet or just use any you already have  and copy the Master Public Key from the menu ```Wallet``` > ```Information``` and paste it at BTCpay Server at ```Stores``` > ```Settings``` (if you already added a store) > ```Add or modify a derivation scheme```.
+
+Another change is the gap limit of wallet. The standard gap limit is low but to reach the best peace of mind level we will change it to a higher number like 2000. 
+
+Go to menu ```View``` and be sure the last submenu is ```Hide console``` if it isn't click at ```Show console```. Open the ```Console tab``` and use the commands at prompt: ```wallet.change_gap_limit(2000)``` and press enter at your keyboard, ```wallet.storage.write()``` and press enter again.
+
 > [Samourai Wallet](https://samouraiwallet.com/)
 
 *A modern bitcoin wallet hand forged to keep your transactions private, your identity masked, and your funds secure.*
@@ -56,16 +80,6 @@ To get the Derivation Scheme - at Samourai Wallet - you need to click upper righ
 
 TODO: Nicolas Dorier, BTCpay Server maintener, [was in doubt about the gap limit of Samourai](https://twitter.com/NicolasDorier/status/968638958438572032). Need to be checked to validate the use of Samourai Wallet.
 
-> [Electrum-LTC](https://electrum-ltc.org/)
-
-*Electrum-LTC is a simple, but powerful Litecoin wallet. A twelve-word security passphrase (or “seed”) leaves intruders stranded and your peace of mind intact.*
-
-Electurm-LTC is not a mobile wallet but will generate the Derivation Scheme you need to fill the field at BTCpay Server.
-
-The Electrum-LTC website inform the gap limit as 5 by default and appear it needs to be changed to 20 due [the requirement of BTCpay Server](https://twitter.com/NicolasDorier/status/968638958438572032).
-
-The segwit addresses will be generated using bech32 format, not compatible with some wallets yet and it can be a problem for customers until wallets upgrade to that format.
-
 > [Loafwallet](https://www.loadwallet.org)
 
 *Loafwallet is the best standalone Litecoin wallet built for iOS and Android. It is available to download for free on the Apple App Store and Play Store!*
@@ -73,4 +87,4 @@ The segwit addresses will be generated using bech32 format, not compatible with 
 Loafwallet will be the best choice for accept LTC in Xadrez setup when archive some requirements as listed:
   - Be compatible with segwit (probably at 2.1 version)
   - Inform the Derivation Scheme
-  - Has the recommended gap limit of 20 addresses
+  - Has the a high gap limit of 20 addresses or option to config it
