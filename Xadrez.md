@@ -50,7 +50,7 @@ This is the plugin mentioned above. WooCommerce is widely used and offer a bunch
 
 BTCpay Server will will turn the merchant into a self sovereign one. The merchant (or some merchants who trust themselves) will run a payment gateway and link the store (Wordpress + WooCommerce) to it using a Woocommerce addon plugin from BTCpayServer project. 
 
-A good specific guide of BTCpay Server can be found [here](https://www.reddit.com/r/Bitcoin/comments/81h1oy/the_merchants_guide_to_accepting_bitcoin_directly/).
+You can found a lot of information about BTCpay at [The Merchants Guide to accepting Bitcoin directly with no intermediates through BTCPay](https://www.reddit.com/r/Bitcoin/comments/81h1oy/the_merchants_guide_to_accepting_bitcoin_directly/).
 
 The minimum infrastructure to setup this can be purchased at [Digital Ocean](https://m.do.co/c/ec2caf98348a). You can create your Droplet for BTCpay Server (check about BTCpay below) using an ```One-click apps``` image called ```Docker 17.12.0~ce on 16.04``` on the plan described as ```2 GB, 1 vCPU, 50 GB, 2 TB``` - that will costs $10/mo.
 
