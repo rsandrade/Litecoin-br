@@ -8,6 +8,8 @@ Author: Ricardo Sodré Andrade ([Twitter](https://www.twitter.com/ricsodre))
 
 Short URL to this guide: [http://xadrez.yndexa.com](http://xadrez.yndexa.com)
 
+I personally run an online bookstore which uses Xadrez to give the option for customers pay with Litecoin and Bitcoin: [9Bravos](https://www.9bravos.com.br/loja). At same time that e-store let me validate what I've documented here. The store is in Brazilian Portuguese.
+
 # Table of contents
 1. [Introduction](#introduction)
 2. [Components](#components)
