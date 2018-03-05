@@ -59,7 +59,7 @@ You will need to prune the ```bitcoind``` including a new line with argument ```
 
 You can read a lot of additional information about BTCpay Server at [The Merchants Guide to accepting Bitcoin directly with no intermediates through BTCPay](https://www.reddit.com/r/Bitcoin/comments/81h1oy/the_merchants_guide_to_accepting_bitcoin_directly/).
 
-You should [the BTCPay Server Twitter acoount](https://www.twitter.com/tcpayServer) too.
+You should follow [the BTCPay Server Twitter acoount](https://www.twitter.com/tcpayServer) too.
 
 ### ["Wordpress-Woocommerce-BTCpay" plugin](https://github.com/btcpayserver/woocommerce-plugin)
 
